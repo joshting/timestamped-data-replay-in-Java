@@ -99,7 +99,7 @@ public class PlayBackService {
 				th.start();
 				Scanner keys = new Scanner(System.in);
 				System.out.println(
-						"Enter command (0-pause, 1-play, 2-forward 2x, 3-forward 4x, 4-forward 8x, 5-rewind 4x, 5-stop):");
+						"Enter command\n(0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-forward 0.5x, 5-rewind 4x, 6-stop, 7-toggle repeat, 8-seek):");
 				int n = keys.nextInt();
 				while (true) {
 					switch (n) {
@@ -128,7 +128,9 @@ public class PlayBackService {
 						replay.toggleRepeat();
 						break;
 					case 8:
-						replay.seek(1653449407299l);
+						System.out.println("Enter epoch time to seek:");
+						long seekLong = keys.nextLong();
+						replay.seek(seekLong);
 						break;
 					}
 					System.out.println(
