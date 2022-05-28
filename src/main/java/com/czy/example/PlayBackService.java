@@ -23,7 +23,6 @@ import com.czy.replay.ReplayControlEvent;
 import com.czy.replay.ReplayEventListener;
 import com.czy.replay.ReplaySpeedEnum;
 import com.czy.replay.TimedData;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -32,9 +31,11 @@ public class PlayBackService {
 
 	private ObjectMapper mapper = new ObjectMapper();
 
-	List<TimedData<Sensor>> dataList = new ArrayList<TimedData<Sensor>>();
+	private List<TimedData<Sensor>> dataList = new ArrayList<TimedData<Sensor>>();
 
-	SimpleDateFormat timeFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+	private SimpleDateFormat timeFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+
+	private Scanner keys = new Scanner(System.in);
 
 	private String millisecToHumanReadable(long duration) {
 		return String.format("%d min, %d sec", TimeUnit.MILLISECONDS.toMinutes(duration),
@@ -66,18 +67,14 @@ public class PlayBackService {
 
 					@Override
 					public void onDataItem(TimedData<Sensor> data) {
-						try {
-							Date time = new Date(data.getEpochTimeMs());
-							System.out.println(
-									timeFormat.format(time) + " -- " + mapper.writeValueAsString(data.getValue()));
-						} catch (JsonProcessingException e) {
-							e.printStackTrace();
-						}
+						Date time = new Date(data.getEpochTimeMs());
+						System.out.println(timeFormat.format(time) + "  "
+								+ new String(new char[data.getValue().getValue()]).replace('\0', ' ') + "*");
 					}
 
 					@Override
 					public void onElapsedTime(ElapsedTime elapsedTime) {
-						System.out.println(elapsedTime.getElapsed() + "/" + elapsedTime.getTotal());
+//						System.out.println(elapsedTime.getElapsed() + "/" + elapsedTime.getTotal());
 					}
 
 					@Override
@@ -97,7 +94,7 @@ public class PlayBackService {
 				});
 				Thread th = new Thread(replay);
 				th.start();
-				Scanner keys = new Scanner(System.in);
+
 				System.out.println(
 						"Enter command\n(0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-forward 0.5x, 5-rewind 4x, 6-stop, 7-toggle repeat, 8-seek):");
 				int n = keys.nextInt();

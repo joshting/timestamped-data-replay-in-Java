@@ -15,7 +15,7 @@ public class StartPlayBack implements InitializingBean {
 
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		File file = ResourceUtils.getFile("classpath:data_short.txt");
+		File file = ResourceUtils.getFile("classpath:data.txt");
 		playBackService.play(file);
 	}
 
