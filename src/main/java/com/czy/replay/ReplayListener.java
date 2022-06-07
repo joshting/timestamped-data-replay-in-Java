@@ -23,4 +23,6 @@ public interface ReplayListener<T> extends EventListener {
 
 	void onControlEvent(ReplayControlEvent control);
 
+	void onDestroy();
+
 }

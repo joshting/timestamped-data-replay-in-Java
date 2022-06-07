@@ -20,9 +20,10 @@ public class Replay<T> implements Runnable {
 	private int indexPointer = 0;
 	private boolean play = false;
 	private boolean reverse = false;
-	private boolean repeat = true;
+	private boolean repeat = false;
 	private float speedMultiplier = 1.0f;
-	private ReplayEventListener<T> replayEvent;
+	private ReplayListener<T> replayEvent;
+	private boolean destroy = false;
 
 	/**
 	 * Setup a Replay of time series data
@@ -37,7 +38,7 @@ public class Replay<T> implements Runnable {
 	 *                    does not exceed the tick
 	 * @throws TickOutOfRangeException
 	 */
-	public Replay(long tick, List<TimedData<T>> data, ReplayEventListener<T> replayEvent) {
+	public Replay(long tick, List<TimedData<T>> data, ReplayListener<T> replayEvent) {
 		if (tick < 10 || tick > 10000) {
 			throw new IllegalArgumentException(
 					String.format("Argument tick is set to %s. Allowable values are between 10 to 10000", tick));
@@ -63,23 +64,23 @@ public class Replay<T> implements Runnable {
 		indexPointer = 0;
 		ticker = data.get(indexPointer).getEpochTimeMs();
 		lastElapsedTimeEmit = ticker;
-		ticker -= ticker % 1000; // round down to nearest second
-		while (true) {
-			while (indexPointer >= 0 && indexPointer < dataSize && play) {
+		while (!destroy) {
+			while (indexPointer >= 0 && indexPointer < dataSize && play && !destroy) {
+				if (play) {
+					this.detectStartAndEnd();
+				}
 				try {
 					if (reverse) {
 						while (indexPointer >= 0 && data.get(indexPointer).getEpochTimeMs() >= ticker) {
 							this.replayEvent.onDataItem(data.get(indexPointer));
 							indexPointer--;
 						}
-						this.detectStartAndEnd();
 						ticker -= this.tick;
 					} else {
 						while (indexPointer < dataSize && data.get(indexPointer).getEpochTimeMs() <= ticker) {
 							this.replayEvent.onDataItem(data.get(indexPointer));
 							indexPointer++;
 						}
-						this.detectStartAndEnd();
 						ticker += this.tick;
 					}
 					// only emit elapsed time every ~ 1 second if tick is less than 1 second
@@ -105,7 +106,6 @@ public class Replay<T> implements Runnable {
 		this.reverse = false;
 		this.indexPointer = 0;
 		ticker = data.get(0).getEpochTimeMs();
-		ticker -= ticker % 1000; // round down to nearest second
 		this.replayEvent.onControlEvent(new ReplayControlEvent(ReplayControlEnum.STOP, ""));
 	}
 
@@ -180,17 +180,22 @@ public class Replay<T> implements Runnable {
 			this.replayEvent.onControlEvent(new ReplayControlEvent(ReplayControlEnum.SEEK, String.valueOf(seekTime)));
 			this.indexPointer = binarySearchClosest(this.data, seekTime);
 			ticker = data.get(this.indexPointer).getEpochTimeMs();
-			ticker -= ticker % 1000; // round down to nearest second
 		}
 	}
 
+	public void destroy() {
+		this.play = false;
+		this.destroy = true;
+		this.replayEvent.onDestroy();
+	}
+
 	private void detectStartAndEnd() {
-		if (indexPointer < 0) {
+		if (indexPointer == 0) {
 			this.replayEvent.onStart();
 			if (this.reverse) {
 				this.play = false;
 			}
-		} else if (indexPointer > this.dataSize - 1) {
+		} else if (indexPointer == this.dataSize - 1) {
 			this.replayEvent.onEnd();
 			if (!this.reverse) {
 				this.play = false;
@@ -201,7 +206,6 @@ public class Replay<T> implements Runnable {
 		if (!this.play) {
 			this.indexPointer = 0;
 			ticker = data.get(0).getEpochTimeMs();
-			ticker -= ticker % 1000; // round down to nearest second
 			if (this.repeat) {
 				this.play = true;
 			}

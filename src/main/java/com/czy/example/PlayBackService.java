@@ -20,7 +20,7 @@ import com.czy.replay.DataSummary;
 import com.czy.replay.ElapsedTime;
 import com.czy.replay.Replay;
 import com.czy.replay.ReplayControlEvent;
-import com.czy.replay.ReplayEventListener;
+import com.czy.replay.ReplayListener;
 import com.czy.replay.ReplaySpeedEnum;
 import com.czy.replay.TimedData;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -53,7 +53,7 @@ public class PlayBackService {
 					});
 					dataList.add(dto);
 				}
-				Replay<Sensor> replay = new Replay<Sensor>(100, dataList, new ReplayEventListener<Sensor>() {
+				Replay<Sensor> replay = new Replay<Sensor>(100, dataList, new ReplayListener<Sensor>() {
 
 					@Override
 					public void onDataSummary(DataSummary dataSummary) {
@@ -91,12 +91,16 @@ public class PlayBackService {
 					public void onControlEvent(ReplayControlEvent control) {
 						System.out.println(control.getControl() + ": " + control.getValue());
 					}
+
+					@Override
+					public void onDestroy() {
+						System.out.println("DESTROYED");
+					}
 				});
 				Thread th = new Thread(replay);
 				th.start();
-
 				System.out.println(
-						"Enter command\n(0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-forward 0.5x, 5-rewind 4x, 6-stop, 7-toggle repeat, 8-seek):");
+						"Enter command\n(0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-forward 0.5x, 5-rewind 4x, 6-stop, 7-toggle repeat, 8-seek, 9-destroy):");
 				int n = keys.nextInt();
 				while (true) {
 					switch (n) {
@@ -129,9 +133,12 @@ public class PlayBackService {
 						long seekLong = keys.nextLong();
 						replay.seek(seekLong);
 						break;
+					case 9:
+						replay.destroy();
+						break;
 					}
 					System.out.println(
-							"Enter command (0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-slow 0.5x, 5-rewind 4x, 6-stop, 7-repeat):");
+							"Enter command\n(0-pause, 1-play, 2-forward 2x, 3-forward 8x, 4-forward 0.5x, 5-rewind 4x, 6-stop, 7-toggle repeat, 8-seek, 9-destroy):");
 					n = keys.nextInt();
 				}
 			} catch (IOException e) {
@@ -145,11 +152,4 @@ public class PlayBackService {
 
 	}
 
-//	public void pause() {
-//		this.controlQueue.add(0);
-//	}
-//	
-//	public void resume() {
-//		this.controlQueue.add(1);
-//	}
 }

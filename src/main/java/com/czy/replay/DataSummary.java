@@ -9,12 +9,12 @@ package com.czy.replay;
  */
 public class DataSummary {
 
-	private long totalDataPoints;
+	private int totalDataPoints;
 	private long startTime;
 	private long endTime;
 	private long totalDuration;
 
-	public DataSummary(long totalDataPoints, long startTime, long endTime, long totalDuration) {
+	public DataSummary(int totalDataPoints, long startTime, long endTime, long totalDuration) {
 		super();
 		this.totalDataPoints = totalDataPoints;
 		this.startTime = startTime;
@@ -22,11 +22,11 @@ public class DataSummary {
 		this.totalDuration = totalDuration;
 	}
 
-	public long getTotalDataPoints() {
+	public int getTotalDataPoints() {
 		return totalDataPoints;
 	}
 
-	public void setTotalDataPoints(long totalDataPoints) {
+	public void setTotalDataPoints(int totalDataPoints) {
 		this.totalDataPoints = totalDataPoints;
 	}
 
