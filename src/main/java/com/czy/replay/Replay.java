@@ -55,13 +55,20 @@ public class Replay<T> implements Runnable {
 		long bucketUpperLimit = this.startTime + bucketSize;
 		int[] heatMap = new int[heatMapSize];
 		int bucketIndex = 0;
+		int max = 0;
 		for(TimedData<T> item : data) {
 			if(item.getEpochTimeMs() <= bucketUpperLimit) {
 				heatMap[bucketIndex] += 1;
+				if(heatMap[bucketIndex] >  max) {
+					max = heatMap[bucketIndex];
+				}
 			} else {
 				bucketUpperLimit += bucketSize;
 				bucketIndex += 1;
 			}
+		}
+		for(int i = 0; i < heatMap.length; i++) {
+			heatMap[i] = Math.round(heatMap[i] * heatMapScale/max);
 		}
 		logger.log(Level.INFO,
 				String.format("Setup replay -- data points: %s, total time: %s ms", this.dataSize, this.totalTime));
