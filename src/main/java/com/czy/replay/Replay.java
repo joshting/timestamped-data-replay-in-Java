@@ -17,6 +17,7 @@ public class Replay<T> implements Runnable {
 	private List<TimedData<T>> data;
 	private TimedDataComparator<T> comparator = new TimedDataComparator<T>();
 	private int dataSize;
+	private int[] heatMap;
 	private int indexPointer = 0;
 	private boolean play = false;
 	private boolean reverse = false;
@@ -38,7 +39,7 @@ public class Replay<T> implements Runnable {
 	 *                    does not exceed the tick
 	 * @throws TickOutOfRangeException
 	 */
-	public Replay(long tick, List<TimedData<T>> data, ReplayListener<T> replayEvent) {
+	public Replay(long tick, int heatMapSize, int heatMapScale, List<TimedData<T>> data, ReplayListener<T> replayEvent) {
 		if (tick < 10 || tick > 10000) {
 			throw new IllegalArgumentException(
 					String.format("Argument tick is set to %s. Allowable values are between 10 to 10000", tick));
@@ -50,13 +51,26 @@ public class Replay<T> implements Runnable {
 		this.startTime = this.data.get(0).getEpochTimeMs();
 		this.endTime = this.data.get(this.dataSize - 1).getEpochTimeMs();
 		this.totalTime = this.endTime - this.startTime;
+		long bucketSize = (long) Math.ceil(this.totalTime / heatMapSize);
+		long bucketUpperLimit = this.startTime + bucketSize;
+		int[] heatMap = new int[heatMapSize];
+		int bucketIndex = 0;
+		for(TimedData<T> item : data) {
+			if(item.getEpochTimeMs() <= bucketUpperLimit) {
+				heatMap[bucketIndex] += 1;
+			} else {
+				bucketUpperLimit += bucketSize;
+				bucketIndex += 1;
+			}
+		}
 		logger.log(Level.INFO,
 				String.format("Setup replay -- data points: %s, total time: %s ms", this.dataSize, this.totalTime));
 		if (dataSize == Integer.MAX_VALUE) {
 			logger.log(Level.WARNING, "The data size may have exceed the limit of java.util.List");
 		}
 		this.replayEvent = replayEvent;
-		this.replayEvent.onDataSummary(new DataSummary(this.dataSize, this.startTime, this.endTime, this.totalTime));
+		this.heatMap = heatMap;
+		this.replayEvent.onDataSummary(new DataSummary(this.dataSize, this.startTime, this.endTime, this.totalTime, this.heatMap));
 	}
 
 	@Override

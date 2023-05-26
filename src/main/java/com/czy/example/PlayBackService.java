@@ -53,7 +53,7 @@ public class PlayBackService {
 					});
 					dataList.add(dto);
 				}
-				Replay<Sensor> replay = new Replay<Sensor>(100, dataList, new ReplayListener<Sensor>() {
+				Replay<Sensor> replay = new Replay<Sensor>(100, 10, 10, dataList, new ReplayListener<Sensor>() {
 
 					@Override
 					public void onDataSummary(DataSummary dataSummary) {

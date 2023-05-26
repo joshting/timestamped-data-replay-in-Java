@@ -2,6 +2,7 @@ package com.czy.replay;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.jupiter.api.Test;
@@ -19,7 +20,7 @@ public class TimedDataTests {
 
 	@Test
 	void TimedDataSortingTest() {
-		List<TimedData<String>> data = TestConstants.UNSORTED_DATA;
+		List<TimedData<String>> data = new ArrayList<>(TestConstants.UNSORTED_DATA);
 		assertEquals(data.get(0).getValue(), "2");
 		assertEquals(data.get(1).getValue(), "4");
 		assertEquals(data.get(2).getValue(), "0");

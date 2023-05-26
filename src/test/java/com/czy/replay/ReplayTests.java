@@ -6,16 +6,16 @@ import org.junit.jupiter.api.Test;
 
 public class ReplayTests {
 
-	private DataSummary summary = new DataSummary(0, 0l, 0l, 0l);
+	private DataSummary summary = new DataSummary(0, 0l, 0l, 0l, new int[10]);
 	private TimedData<String> currentData = null;
 	private boolean started = false;
 
 	@Test
 	void PlayPauseTest() throws InterruptedException {
-		summary = new DataSummary(0, 0l, 0l, 0l);
+		summary = new DataSummary(0, 0l, 0l, 0l, new int[10]);
 		currentData = null;
 		started = false;
-		Replay<String> replay = new Replay<String>(100, TestConstants.UNSORTED_DATA, new ReplayListener<String>() {
+		Replay<String> replay = new Replay<String>(100, 10, 10, TestConstants.UNSORTED_DATA, new ReplayListener<String>() {
 
 			@Override
 			public void onDataSummary(DataSummary dataSummary) {

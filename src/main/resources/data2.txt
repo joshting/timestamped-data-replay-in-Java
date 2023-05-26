@@ -1,0 +1,934 @@
+{"type":"SENSOR","timestamp":1653449371299,"data":{"msgId":"a080bb1e-4d4c-4c7b-b8d7-2e776d7d4058","value":5}}
+{"type":"SENSOR","timestamp":1653449456299,"data":{"msgId":"e7ee379a-a750-45a1-9573-5cb5dd182e55","value":10}}
+{"type":"SENSOR","timestamp":1653449457299,"data":{"msgId":"85287ee3-1b13-4546-a989-9cb86ba6b554","value":11}}
+{"type":"SENSOR","timestamp":1653449458299,"data":{"msgId":"570d5b30-b64b-4151-baeb-33a535fb6a4b","value":12}}
+{"type":"SENSOR","timestamp":1653449459299,"data":{"msgId":"88d08389-5b68-4091-b338-6e6d68cbee41","value":13}}
+{"type":"SENSOR","timestamp":1653449460299,"data":{"msgId":"5d24ca53-1073-4eaa-a0d5-b9c90fc43676","value":14}}
+{"type":"SENSOR","timestamp":1653449461299,"data":{"msgId":"37fa72c5-7f87-49f6-ab38-78f5709d495c","value":15}}
+{"type":"SENSOR","timestamp":1653449462299,"data":{"msgId":"9ca42096-321b-416b-b977-2b2f8f4fd181","value":16}}
+{"type":"SENSOR","timestamp":1653449463299,"data":{"msgId":"42bda4d8-ce3d-495a-ac21-2a16e6661827","value":17}}
+{"type":"SENSOR","timestamp":1653449464299,"data":{"msgId":"21eedad8-48cd-4482-b016-e8b3584fb7f8","value":18}}
+{"type":"SENSOR","timestamp":1653449465299,"data":{"msgId":"8ddd8bb2-4797-4796-86bf-b3b32c662e70","value":19}}
+{"type":"SENSOR","timestamp":1653449470299,"data":{"msgId":"458d8ce5-7bd5-4a1f-83ce-37e7569552d8","value":24}}
+{"type":"SENSOR","timestamp":1653449471299,"data":{"msgId":"86541f2d-cf19-471b-91e7-cc4dd7f65741","value":25}}
+{"type":"SENSOR","timestamp":1653449472299,"data":{"msgId":"2fdef685-2497-49b6-9105-6378544dd305","value":26}}
+{"type":"SENSOR","timestamp":1653449473299,"data":{"msgId":"447492a2-4fe1-41d2-a51e-cbe28b6f85cd","value":27}}
+{"type":"SENSOR","timestamp":1653449474299,"data":{"msgId":"33f94da9-fe93-4aa0-b443-45d1c8153aca","value":28}}
+{"type":"SENSOR","timestamp":1653449475299,"data":{"msgId":"7863c93b-74a2-404c-9e7e-f99449b5363c","value":29}}
+{"type":"SENSOR","timestamp":1653449476299,"data":{"msgId":"ab263c57-c1cd-4d49-945c-2db9dd83cbbc","value":30}}
+{"type":"SENSOR","timestamp":1653449477299,"data":{"msgId":"be9bf2f3-ccd0-43b0-b557-10457f67bc82","value":31}}
+{"type":"SENSOR","timestamp":1653449478299,"data":{"msgId":"70deb04e-ac69-4bdd-8b77-4e024258fe72","value":32}}
+{"type":"SENSOR","timestamp":1653449479299,"data":{"msgId":"f838d159-ce19-4797-9ae1-1d31f67d67d9","value":33}}
+{"type":"SENSOR","timestamp":1653449480299,"data":{"msgId":"337e0150-c35b-4f53-9d29-7d32596842a7","value":34}}
+{"type":"SENSOR","timestamp":1653449481299,"data":{"msgId":"6be865aa-62dd-4784-a3cc-4c7fce83fb79","value":35}}
+{"type":"SENSOR","timestamp":1653449482299,"data":{"msgId":"98601b9e-b377-465b-9458-6f6efe413790","value":36}}
+{"type":"SENSOR","timestamp":1653449483299,"data":{"msgId":"370d144c-8af4-4dbe-b083-d455d0bcca3b","value":37}}
+{"type":"SENSOR","timestamp":1653449484299,"data":{"msgId":"b22051a4-b6ec-4921-a9a0-8797e71844e4","value":38}}
+{"type":"SENSOR","timestamp":1653449485299,"data":{"msgId":"b6d2cb91-a4ad-4976-abf7-d4fee2618502","value":39}}
+{"type":"SENSOR","timestamp":1653449486299,"data":{"msgId":"81d1a830-056a-475e-ad02-5b0fc2316930","value":40}}
+{"type":"SENSOR","timestamp":1653449487299,"data":{"msgId":"ff22969f-58a2-4802-90d5-2c265cded278","value":41}}
+{"type":"SENSOR","timestamp":1653449488299,"data":{"msgId":"6a8d11b8-2677-4619-a582-4259ba8029f4","value":42}}
+{"type":"SENSOR","timestamp":1653449489299,"data":{"msgId":"b5465b99-e097-40d9-bc0f-40db1c3cf58f","value":43}}
+{"type":"SENSOR","timestamp":1653449490299,"data":{"msgId":"7c3ea5a4-c028-4e6b-a1d7-59a45187735d","value":44}}
+{"type":"SENSOR","timestamp":1653449491299,"data":{"msgId":"c507f777-ccb9-4c0a-9aec-fec1396ec61e","value":45}}
+{"type":"SENSOR","timestamp":1653449492299,"data":{"msgId":"86a844ca-6efb-4b3d-8e0e-12dc04a6915d","value":46}}
+{"type":"SENSOR","timestamp":1653449493299,"data":{"msgId":"2974e32e-62ad-4266-b8dd-5d2298f3e961","value":47}}
+{"type":"SENSOR","timestamp":1653449494299,"data":{"msgId":"09dbdc43-4cff-494e-b16e-5ff3cc92c16f","value":48}}
+{"type":"SENSOR","timestamp":1653449495299,"data":{"msgId":"1937eafe-5829-4dc7-bef3-adbd2297d39b","value":49}}
+{"type":"SENSOR","timestamp":1653449496299,"data":{"msgId":"30e0cb0b-0623-4b2f-8a1b-502fd78b7197","value":0 }}
+{"type":"SENSOR","timestamp":1653449497299,"data":{"msgId":"09974adb-ef57-4956-b25e-933d12b57210","value":1 }}
+{"type":"SENSOR","timestamp":1653449498299,"data":{"msgId":"25244182-3355-4250-bd2a-e5fe2a694179","value":2 }}
+{"type":"SENSOR","timestamp":1653449499299,"data":{"msgId":"7e622e75-f220-47cc-82ec-1a51aafa55fe","value":3 }}
+{"type":"SENSOR","timestamp":1653449500299,"data":{"msgId":"637b3410-b418-4ab5-9d2a-3a8438fd300d","value":4 }}
+{"type":"SENSOR","timestamp":1653449501299,"data":{"msgId":"deba5a2e-09e6-4112-87f4-6449eb4c8546","value":5 }}
+{"type":"SENSOR","timestamp":1653449502299,"data":{"msgId":"3e7fa94f-af59-4d16-ac71-5b240d84bdad","value":6 }}
+{"type":"SENSOR","timestamp":1653449503299,"data":{"msgId":"38b940e5-c0bd-4bb4-95fe-8373ea892d07","value":7 }}
+{"type":"SENSOR","timestamp":1653449504299,"data":{"msgId":"aa8d2b04-96ae-41c2-9091-cd945391dcc2","value":8 }}
+{"type":"SENSOR","timestamp":1653449505299,"data":{"msgId":"2370bc6c-84a8-4627-b2b3-7f22a5521233","value":9 }}
+{"type":"SENSOR","timestamp":1653449506299,"data":{"msgId":"2612b7da-6e6d-4c19-9a23-a21e291bfc6d","value":10}}
+{"type":"SENSOR","timestamp":1653449507299,"data":{"msgId":"9724791a-3dd2-4db6-a8ac-f702d6cfdb9c","value":11}}
+{"type":"SENSOR","timestamp":1653449508299,"data":{"msgId":"60eeb870-c7af-46f6-a0df-9085dccd0cac","value":12}}
+{"type":"SENSOR","timestamp":1653449509299,"data":{"msgId":"15fe7106-8cc5-41c3-a45d-463abc61a303","value":13}}
+{"type":"SENSOR","timestamp":1653449510299,"data":{"msgId":"112fa922-e85a-45cc-a5d4-adf7fd1f8867","value":14}}
+{"type":"SENSOR","timestamp":1653449511299,"data":{"msgId":"7ae1747e-a00c-4e20-b96a-832228f26149","value":15}}
+{"type":"SENSOR","timestamp":1653449512299,"data":{"msgId":"35d05437-f8ff-4b0f-bc53-38ed12dec7f7","value":16}}
+{"type":"SENSOR","timestamp":1653449513299,"data":{"msgId":"ea5ed7d9-2ad3-41ce-b650-5e7d284605c0","value":17}}
+{"type":"SENSOR","timestamp":1653449514299,"data":{"msgId":"c4c04263-78bd-4bee-babc-464ff453a07d","value":18}}
+{"type":"SENSOR","timestamp":1653449515299,"data":{"msgId":"eec8b82a-f7f4-4a30-bfa6-cf883a390155","value":19}}
+{"type":"SENSOR","timestamp":1653449516299,"data":{"msgId":"ea06f903-a9df-4ba8-a06c-3dbdd36a4f0b","value":20}}
+{"type":"SENSOR","timestamp":1653449517299,"data":{"msgId":"8a49bf77-502d-4c12-b71f-399608aa4c90","value":21}}
+{"type":"SENSOR","timestamp":1653449518299,"data":{"msgId":"9b634c82-29f7-450e-841d-e02be7ffe2c2","value":22}}
+{"type":"SENSOR","timestamp":1653449519299,"data":{"msgId":"84219194-4129-4032-9165-bf94707b0f53","value":23}}
+{"type":"SENSOR","timestamp":1653449520299,"data":{"msgId":"900b5863-ffa6-485a-83f3-63a68f84c6c6","value":24}}
+{"type":"SENSOR","timestamp":1653449521299,"data":{"msgId":"ea899c14-d27e-43cc-b509-9d7438805c7f","value":25}}
+{"type":"SENSOR","timestamp":1653449522299,"data":{"msgId":"82692f29-dcdb-4903-a006-a7477f6dc7ed","value":26}}
+{"type":"SENSOR","timestamp":1653449523299,"data":{"msgId":"b9fcbd38-9d9b-4abf-b637-873bb42b4a1c","value":27}}
+{"type":"SENSOR","timestamp":1653449524299,"data":{"msgId":"6e0d4f16-60fe-41d3-8502-c1ba7aee1d97","value":28}}
+{"type":"SENSOR","timestamp":1653449525299,"data":{"msgId":"c5ac3df0-eb1d-4231-96b0-2eca06ca5893","value":29}}
+{"type":"SENSOR","timestamp":1653449526299,"data":{"msgId":"79a2f7f2-71c8-4a4f-a5f9-192fa55da3da","value":30}}
+{"type":"SENSOR","timestamp":1653449527299,"data":{"msgId":"a21398b1-97ac-4731-87c5-f3a83819ebfa","value":31}}
+{"type":"SENSOR","timestamp":1653449528299,"data":{"msgId":"844685ad-29ce-44ec-b370-13ece253fe54","value":32}}
+{"type":"SENSOR","timestamp":1653449529299,"data":{"msgId":"bd3fd77f-b6c1-40fc-b73d-0cc5c1249218","value":33}}
+{"type":"SENSOR","timestamp":1653449534299,"data":{"msgId":"126a07a4-3a87-470b-ae1d-dfb77c982dc0","value":38}}
+{"type":"SENSOR","timestamp":1653449535299,"data":{"msgId":"c492d5ff-af25-466f-8391-84234c532de8","value":39}}
+{"type":"SENSOR","timestamp":1653449536299,"data":{"msgId":"353345ec-2f0e-43d5-a6b6-c93b082ffbae","value":40}}
+{"type":"SENSOR","timestamp":1653449537299,"data":{"msgId":"091ebb59-b631-4a95-8a04-5eeccf6046f8","value":41}}
+{"type":"SENSOR","timestamp":1653449538299,"data":{"msgId":"06e9cf2a-2e58-45d3-8357-8fa0b428ece8","value":42}}
+{"type":"SENSOR","timestamp":1653449539299,"data":{"msgId":"2b4a1bed-5f14-42a2-86e7-afb710eee4c2","value":43}}
+{"type":"SENSOR","timestamp":1653449540299,"data":{"msgId":"26cb8be5-8452-4859-87eb-a2b3d221a5b6","value":44}}
+{"type":"SENSOR","timestamp":1653449541299,"data":{"msgId":"5d949b41-580b-40d2-bf62-0e2957444379","value":45}}
+{"type":"SENSOR","timestamp":1653449542299,"data":{"msgId":"dd413353-1463-47f1-9850-c8e6d6c88bb1","value":46}}
+{"type":"SENSOR","timestamp":1653449543299,"data":{"msgId":"7ecdc6b5-164f-44ab-a94f-a728b55ac62b","value":47}}
+{"type":"SENSOR","timestamp":1653449544299,"data":{"msgId":"5f166a5c-b57c-4acd-9510-3b75ebcb8694","value":48}}
+{"type":"SENSOR","timestamp":1653449545299,"data":{"msgId":"deeeede4-3924-4305-bf09-4b52ac1b4be0","value":49}}
+{"type":"SENSOR","timestamp":1653449546299,"data":{"msgId":"f9c2ae6f-ebc5-4d91-b185-c4ec3b642427","value":0 }}
+{"type":"SENSOR","timestamp":1653449547299,"data":{"msgId":"fabbe3fe-b03d-4b1c-9ac6-d4973b5b9a8f","value":1 }}
+{"type":"SENSOR","timestamp":1653449548299,"data":{"msgId":"5350e6d2-4e4f-43a9-bc2b-4e7a83c96bdd","value":2 }}
+{"type":"SENSOR","timestamp":1653449549299,"data":{"msgId":"aee23373-3ccc-4843-b9e7-2fec59226c5a","value":3 }}
+{"type":"SENSOR","timestamp":1653449550299,"data":{"msgId":"3120b517-083b-4b6c-8711-c4a9565d3da6","value":4 }}
+{"type":"SENSOR","timestamp":1653449551299,"data":{"msgId":"84948b3f-f24f-4789-a133-bbf6104cc778","value":5 }}
+{"type":"SENSOR","timestamp":1653449552299,"data":{"msgId":"31c405cf-1b7a-46e1-981b-f9578fefe342","value":6 }}
+{"type":"SENSOR","timestamp":1653449553299,"data":{"msgId":"5b659af5-ea90-4bc8-9183-a3f37d7f25f0","value":7 }}
+{"type":"SENSOR","timestamp":1653449554299,"data":{"msgId":"a52fd6af-fc11-4285-b62f-aeef8e57c8e9","value":8 }}
+{"type":"SENSOR","timestamp":1653449555299,"data":{"msgId":"1b95e190-a5bc-45cc-b4d3-512650f5fe96","value":9 }}
+{"type":"SENSOR","timestamp":1653449556299,"data":{"msgId":"d06fd18d-4f42-40e9-b04a-744d71235c57","value":10}}
+{"type":"SENSOR","timestamp":1653449557299,"data":{"msgId":"99d6596c-d4e6-402b-959e-246ccf98bb64","value":11}}
+{"type":"SENSOR","timestamp":1653449558299,"data":{"msgId":"2401de65-4ae8-4dce-8449-fbccb69e4b11","value":12}}
+{"type":"SENSOR","timestamp":1653449559299,"data":{"msgId":"5d6b703b-7340-4a38-8628-3da572fa1a1a","value":13}}
+{"type":"SENSOR","timestamp":1653449560299,"data":{"msgId":"254fab32-748c-4f93-b11d-0ba5e2183eb6","value":14}}
+{"type":"SENSOR","timestamp":1653449561299,"data":{"msgId":"9554f4af-d45f-4692-a4c9-1f676c6a5db9","value":15}}
+{"type":"SENSOR","timestamp":1653449562299,"data":{"msgId":"2328b837-929a-433c-a763-e9bae9ec7012","value":16}}
+{"type":"SENSOR","timestamp":1653449563299,"data":{"msgId":"d84b1165-4622-4bda-9766-295cc77a6b08","value":17}}
+{"type":"SENSOR","timestamp":1653449564299,"data":{"msgId":"5aeabe3a-2517-4ed5-9888-8c838e53a105","value":18}}
+{"type":"SENSOR","timestamp":1653449565299,"data":{"msgId":"a69978bd-b7a8-4333-a323-dcee5d995320","value":19}}
+{"type":"SENSOR","timestamp":1653449566299,"data":{"msgId":"48f8cfde-9463-4c24-9414-9434d93710ad","value":20}}
+{"type":"SENSOR","timestamp":1653449567299,"data":{"msgId":"801caf33-0c3e-4450-a30f-38eafa283c14","value":21}}
+{"type":"SENSOR","timestamp":1653449568299,"data":{"msgId":"f6218d00-9eea-4531-99ed-f60656964efe","value":22}}
+{"type":"SENSOR","timestamp":1653449569299,"data":{"msgId":"d45cbe3a-374a-426e-9286-67d9af30b1cf","value":23}}
+{"type":"SENSOR","timestamp":1653449570299,"data":{"msgId":"ef0db9f0-634d-4ae6-8d38-91c293335b3d","value":24}}
+{"type":"SENSOR","timestamp":1653449571299,"data":{"msgId":"599b968c-8c54-4b24-9928-645e79a7f963","value":25}}
+{"type":"SENSOR","timestamp":1653449572299,"data":{"msgId":"4245e3c5-8718-4a94-9d38-fdcd78e06b4f","value":26}}
+{"type":"SENSOR","timestamp":1653449573299,"data":{"msgId":"c14b8931-750c-4cc1-b02a-36bc9f9d5ac5","value":27}}
+{"type":"SENSOR","timestamp":1653449574299,"data":{"msgId":"9e4fbb98-7837-4542-8d16-c478ad4fb795","value":28}}
+{"type":"SENSOR","timestamp":1653449575299,"data":{"msgId":"272af6b7-a068-4ab0-828d-23a1acc33d2c","value":29}}
+{"type":"SENSOR","timestamp":1653449576299,"data":{"msgId":"955dc366-ec10-4d29-b709-e15f50bacc6e","value":30}}
+{"type":"SENSOR","timestamp":1653449577299,"data":{"msgId":"364d4d77-7616-4575-8ff2-bed835704995","value":31}}
+{"type":"SENSOR","timestamp":1653449578299,"data":{"msgId":"b4a1edcc-fbef-46cd-800e-aecc70f670d9","value":32}}
+{"type":"SENSOR","timestamp":1653449579299,"data":{"msgId":"2e258075-9c6a-4746-a4ab-c84c34bb8fea","value":33}}
+{"type":"SENSOR","timestamp":1653449580299,"data":{"msgId":"6b938c18-57c3-4516-b595-400c3b6469ff","value":34}}
+{"type":"SENSOR","timestamp":1653449581299,"data":{"msgId":"f6959d54-dfd8-444f-991c-e8ed1cc612c3","value":35}}
+{"type":"SENSOR","timestamp":1653449582299,"data":{"msgId":"acc07f0d-0474-451f-8edb-7dc4dd53298c","value":36}}
+{"type":"SENSOR","timestamp":1653449583299,"data":{"msgId":"d32e8bba-c7e8-427b-9c77-c5e5b668753e","value":37}}
+{"type":"SENSOR","timestamp":1653449584299,"data":{"msgId":"b305aff4-fd4a-4113-9677-53f0ed7a3240","value":38}}
+{"type":"SENSOR","timestamp":1653449585299,"data":{"msgId":"e503234c-e4b4-4c99-8177-a3ca5c4fe95f","value":39}}
+{"type":"SENSOR","timestamp":1653449586299,"data":{"msgId":"ccb1a008-51fa-4ecb-86a0-f5bde32524e1","value":40}}
+{"type":"SENSOR","timestamp":1653449587299,"data":{"msgId":"0fa1e87e-1efa-4e33-9010-7909ffe7b9f8","value":41}}
+{"type":"SENSOR","timestamp":1653449588299,"data":{"msgId":"12c8cf2a-3019-43b4-be85-f7a4171520b8","value":42}}
+{"type":"SENSOR","timestamp":1653449589299,"data":{"msgId":"5c9e202e-a2d5-4d44-9385-3deaa8c46f02","value":43}}
+{"type":"SENSOR","timestamp":1653449590299,"data":{"msgId":"458edff8-8ee5-475c-aa51-9d4ecccd1d5c","value":44}}
+{"type":"SENSOR","timestamp":1653449594299,"data":{"msgId":"b7249e69-4d08-4d69-96ce-f3c5f5649c6b","value":48}}
+{"type":"SENSOR","timestamp":1653449595299,"data":{"msgId":"a3084f55-e709-4e56-96b6-7b38a9b5e8bd","value":49}}
+{"type":"SENSOR","timestamp":1653449596299,"data":{"msgId":"451b4726-072c-4213-9451-4cbff3776a33","value":0 }}
+{"type":"SENSOR","timestamp":1653449597299,"data":{"msgId":"36e916e1-1407-407b-944e-09120e244593","value":1 }}
+{"type":"SENSOR","timestamp":1653449598299,"data":{"msgId":"f4960514-78c9-400e-aa34-b4bb222dfcf5","value":2 }}
+{"type":"SENSOR","timestamp":1653449599299,"data":{"msgId":"7dc8b2d2-dc17-4eeb-bff4-28aedd4fbc82","value":3 }}
+{"type":"SENSOR","timestamp":1653449600299,"data":{"msgId":"1c7daa2e-0ea2-4a9b-84b2-8a47f452fae2","value":4 }}
+{"type":"SENSOR","timestamp":1653449601299,"data":{"msgId":"cc4189f1-e505-461b-9d60-08fb3fe33e98","value":5 }}
+{"type":"SENSOR","timestamp":1653449602299,"data":{"msgId":"7135063c-667a-49ef-b6e9-24fd1f037942","value":6 }}
+{"type":"SENSOR","timestamp":1653449603299,"data":{"msgId":"a8acc3a7-7c45-451b-89f1-8bd86760670d","value":7 }}
+{"type":"SENSOR","timestamp":1653449604299,"data":{"msgId":"0f53e8df-dba2-47f9-a2f8-81222b966e6b","value":8 }}
+{"type":"SENSOR","timestamp":1653449605299,"data":{"msgId":"0f06bf51-4fda-4e3b-b59b-273ef7e668fe","value":9 }}
+{"type":"SENSOR","timestamp":1653449606299,"data":{"msgId":"2750e5ac-00e7-4e43-bd30-40445b965600","value":10}}
+{"type":"SENSOR","timestamp":1653449607299,"data":{"msgId":"963b7207-c465-4ef8-9b32-6aab3e47b74a","value":11}}
+{"type":"SENSOR","timestamp":1653449608299,"data":{"msgId":"45b553a2-4bb8-4113-bc36-5ba63dc8bd3e","value":12}}
+{"type":"SENSOR","timestamp":1653449609299,"data":{"msgId":"6cfb2f34-5031-4e0e-bb2d-24069d8bffd6","value":13}}
+{"type":"SENSOR","timestamp":1653449610299,"data":{"msgId":"60324f12-5f9f-4f1c-a56b-8c55741017f1","value":14}}
+{"type":"SENSOR","timestamp":1653449611299,"data":{"msgId":"faa7a6fe-c788-49c9-97bd-6d5ff9c59e4e","value":15}}
+{"type":"SENSOR","timestamp":1653449612299,"data":{"msgId":"46358d06-1ed9-4df7-a707-a37454f6aab3","value":16}}
+{"type":"SENSOR","timestamp":1653449613299,"data":{"msgId":"3a6ab164-8651-4f7e-a0cd-b599b5456ffe","value":17}}
+{"type":"SENSOR","timestamp":1653449614299,"data":{"msgId":"9c9e343c-9114-4e16-aafd-5c0872e8ba27","value":18}}
+{"type":"SENSOR","timestamp":1653449615299,"data":{"msgId":"85d25a00-86a7-4324-9a8f-9245c08b871b","value":19}}
+{"type":"SENSOR","timestamp":1653449616299,"data":{"msgId":"0c1e9b06-9422-485d-91c8-f0f2312bab1a","value":20}}
+{"type":"SENSOR","timestamp":1653449617299,"data":{"msgId":"c78c1d32-54ec-48d9-b4d4-ff07a9e42883","value":21}}
+{"type":"SENSOR","timestamp":1653449618299,"data":{"msgId":"2b1ebd16-a8c8-4d10-a721-7e271037b5d3","value":22}}
+{"type":"SENSOR","timestamp":1653449619299,"data":{"msgId":"cb2b4391-9019-4807-80e6-350059bf9272","value":23}}
+{"type":"SENSOR","timestamp":1653449620299,"data":{"msgId":"30a77270-a4ef-4055-be28-64d5da1c2015","value":24}}
+{"type":"SENSOR","timestamp":1653449621299,"data":{"msgId":"cfdfd340-70a4-43cf-8226-687c242ea1fa","value":25}}
+{"type":"SENSOR","timestamp":1653449622299,"data":{"msgId":"11732b6a-927e-437e-97da-6c6ef9356ffc","value":26}}
+{"type":"SENSOR","timestamp":1653449623299,"data":{"msgId":"09b382de-c9e5-415b-9a9d-f598fcac8939","value":27}}
+{"type":"SENSOR","timestamp":1653449624299,"data":{"msgId":"13bec597-3192-4c67-b152-6ed2e6f2087b","value":28}}
+{"type":"SENSOR","timestamp":1653449625299,"data":{"msgId":"1e3ebf19-2296-414b-9fd6-9a9054f04752","value":29}}
+{"type":"SENSOR","timestamp":1653449626299,"data":{"msgId":"4a6e566a-41f2-4ca5-be8c-5394787fc225","value":30}}
+{"type":"SENSOR","timestamp":1653449627299,"data":{"msgId":"70ab7617-337d-494b-8674-eefa0fe38047","value":31}}
+{"type":"SENSOR","timestamp":1653449628299,"data":{"msgId":"1f54f304-f65b-4042-8679-c51da19c5f69","value":32}}
+{"type":"SENSOR","timestamp":1653449629299,"data":{"msgId":"85e249c7-fd8b-42db-8395-868887bba016","value":33}}
+{"type":"SENSOR","timestamp":1653449630299,"data":{"msgId":"bd43af48-7965-4f73-acaf-e8bd3a8d83ad","value":34}}
+{"type":"SENSOR","timestamp":1653449631299,"data":{"msgId":"3b680593-14ca-479e-82e7-064a6377698d","value":35}}
+{"type":"SENSOR","timestamp":1653449632299,"data":{"msgId":"341239fa-678c-4208-aa04-7b5f705d9535","value":36}}
+{"type":"SENSOR","timestamp":1653449633299,"data":{"msgId":"a42680ad-570a-40eb-bce2-b78506f4399e","value":37}}
+{"type":"SENSOR","timestamp":1653449634299,"data":{"msgId":"53a845fc-5df7-4d25-ac07-abccebbc9db0","value":38}}
+{"type":"SENSOR","timestamp":1653449635299,"data":{"msgId":"9190acd8-9434-4513-a175-f151e6000e89","value":39}}
+{"type":"SENSOR","timestamp":1653449636299,"data":{"msgId":"6e7fa1ba-8eb2-47f6-b5b3-3350f0ee96d0","value":40}}
+{"type":"SENSOR","timestamp":1653449637299,"data":{"msgId":"bf07b8e6-cd18-44e3-8010-2929ea1285c6","value":41}}
+{"type":"SENSOR","timestamp":1653449638299,"data":{"msgId":"b0061f48-02ca-4a88-9b8e-5f0df541fed0","value":42}}
+{"type":"SENSOR","timestamp":1653449639299,"data":{"msgId":"3a253a78-39e6-4f5d-a066-8275812fbbac","value":43}}
+{"type":"SENSOR","timestamp":1653449640299,"data":{"msgId":"fd50940f-afeb-4bdb-a79e-9132c51d66e0","value":44}}
+{"type":"SENSOR","timestamp":1653449641299,"data":{"msgId":"926dbd6a-bd47-47fd-a5f5-6feaf7a5c0ea","value":45}}
+{"type":"SENSOR","timestamp":1653449642299,"data":{"msgId":"3b0c4069-a776-48da-afc0-997920ef9270","value":46}}
+{"type":"SENSOR","timestamp":1653449643299,"data":{"msgId":"ca20f41b-e1d2-408d-a9d7-b7af417d5505","value":47}}
+{"type":"SENSOR","timestamp":1653449644299,"data":{"msgId":"6b298b39-5a9d-4caf-9ca5-8a8509706f5f","value":48}}
+{"type":"SENSOR","timestamp":1653449645299,"data":{"msgId":"b4b91011-bb6e-4254-a315-58d6ae095b3e","value":49}}
+{"type":"SENSOR","timestamp":1653449646299,"data":{"msgId":"3a2c1b62-8aee-474e-ae4e-d6365ebf6592","value":0 }}
+{"type":"SENSOR","timestamp":1653449647299,"data":{"msgId":"e2f58711-6643-4f54-b04d-cc610c3ad494","value":1 }}
+{"type":"SENSOR","timestamp":1653449648299,"data":{"msgId":"a0ecc8a7-dac7-4fdb-9bc8-8fbea7d451b2","value":2 }}
+{"type":"SENSOR","timestamp":1653449649299,"data":{"msgId":"a57a689d-3dc7-4e6e-b411-32b0e863db20","value":3 }}
+{"type":"SENSOR","timestamp":1653449655299,"data":{"msgId":"d396e1e8-d60d-4a9a-bc66-d3963f2ae78a","value":9 }}
+{"type":"SENSOR","timestamp":1653449656299,"data":{"msgId":"caedf934-678a-4fcf-8aa5-a1f3eb31c9bb","value":10}}
+{"type":"SENSOR","timestamp":1653449657299,"data":{"msgId":"4d767fc3-a3eb-4bce-8d94-76b1a66d6adc","value":11}}
+{"type":"SENSOR","timestamp":1653449658299,"data":{"msgId":"494269e4-600b-4213-8250-9eb51517687c","value":12}}
+{"type":"SENSOR","timestamp":1653449659299,"data":{"msgId":"060b0090-e200-4cf2-baf5-7ff8e342483b","value":13}}
+{"type":"SENSOR","timestamp":1653449660299,"data":{"msgId":"249107df-96fe-4b3b-805f-b0b79aa16dcc","value":14}}
+{"type":"SENSOR","timestamp":1653449661299,"data":{"msgId":"c847ab5b-db34-4160-8559-8f8885decf7f","value":15}}
+{"type":"SENSOR","timestamp":1653449662299,"data":{"msgId":"3f1a1e76-9598-4084-9c58-316efda5585a","value":16}}
+{"type":"SENSOR","timestamp":1653449667299,"data":{"msgId":"57ca86b4-56a1-4bf1-86b5-7341cd9abb59","value":21}}
+{"type":"SENSOR","timestamp":1653449668299,"data":{"msgId":"f33d2afb-a434-430a-8817-b1d1c5656419","value":22}}
+{"type":"SENSOR","timestamp":1653449669299,"data":{"msgId":"6691d86f-b6f9-4b6d-9b45-eec052807fe0","value":23}}
+{"type":"SENSOR","timestamp":1653449670299,"data":{"msgId":"ca20f2bd-a4d2-4698-b771-1639bdbd1941","value":24}}
+{"type":"SENSOR","timestamp":1653449671299,"data":{"msgId":"05f16041-8c5d-4ef4-b07b-a2e9c9faabea","value":25}}
+{"type":"SENSOR","timestamp":1653449672299,"data":{"msgId":"f2ef0bc4-115e-4b62-bd9e-79f0d998d79f","value":26}}
+{"type":"SENSOR","timestamp":1653449673299,"data":{"msgId":"09d69eb7-fb73-428a-bafb-7af5de0a1559","value":27}}
+{"type":"SENSOR","timestamp":1653449674299,"data":{"msgId":"53c925db-649c-46c8-aafd-bf086df23d81","value":28}}
+{"type":"SENSOR","timestamp":1653449675299,"data":{"msgId":"1a08a5ce-4acf-49e3-adad-d1e014d05dd7","value":29}}
+{"type":"SENSOR","timestamp":1653449676299,"data":{"msgId":"04dd52c3-b7c2-4338-9926-41a5c79085b3","value":30}}
+{"type":"SENSOR","timestamp":1653449677299,"data":{"msgId":"cd331996-a05a-46a1-8831-9d8e4da6f8f4","value":31}}
+{"type":"SENSOR","timestamp":1653449678299,"data":{"msgId":"f364b326-2ee3-4106-ba53-ff776d1c56b6","value":32}}
+{"type":"SENSOR","timestamp":1653449679299,"data":{"msgId":"ee30a04a-5584-4a13-bd9b-5a340ebe91dd","value":33}}
+{"type":"SENSOR","timestamp":1653449680299,"data":{"msgId":"7817c4ad-0936-4611-988b-b540b59b2c18","value":34}}
+{"type":"SENSOR","timestamp":1653449681299,"data":{"msgId":"b683c00b-0f2f-4435-bd43-c1674e2a8cd2","value":35}}
+{"type":"SENSOR","timestamp":1653449682299,"data":{"msgId":"261e8e74-060b-42e3-b136-c0276eb30946","value":36}}
+{"type":"SENSOR","timestamp":1653449683299,"data":{"msgId":"2f278b86-6074-4fb4-94f2-b28a2dabbce2","value":37}}
+{"type":"SENSOR","timestamp":1653449684299,"data":{"msgId":"7add7977-7512-40a2-a114-eb2aaab98df7","value":38}}
+{"type":"SENSOR","timestamp":1653449685299,"data":{"msgId":"91a4b16f-7be8-4e6e-b688-2ced4a34b979","value":39}}
+{"type":"SENSOR","timestamp":1653449686299,"data":{"msgId":"6603556c-ce66-4d3b-bd06-f44f873ce6ae","value":40}}
+{"type":"SENSOR","timestamp":1653449687299,"data":{"msgId":"8364d061-4f5d-4d99-83d3-62b95e3f235c","value":41}}
+{"type":"SENSOR","timestamp":1653449688299,"data":{"msgId":"ef614b6f-cce9-40f6-9f8f-d2b26327d0cf","value":42}}
+{"type":"SENSOR","timestamp":1653449689299,"data":{"msgId":"48882795-dc65-4d37-a63e-5445df861343","value":43}}
+{"type":"SENSOR","timestamp":1653449690299,"data":{"msgId":"d3d8aa05-0a0d-40ef-a5af-3517d8af529b","value":44}}
+{"type":"SENSOR","timestamp":1653449691299,"data":{"msgId":"b56fe6ff-6a21-4638-9539-ed04a7e73542","value":45}}
+{"type":"SENSOR","timestamp":1653449692299,"data":{"msgId":"391240fd-6f4f-43a5-9859-ac3885c5ea68","value":46}}
+{"type":"SENSOR","timestamp":1653449693299,"data":{"msgId":"831c150a-4daa-426b-85d7-4851133eb9d1","value":47}}
+{"type":"SENSOR","timestamp":1653449694299,"data":{"msgId":"ba55e606-de91-46e2-a13d-ad12715d6684","value":48}}
+{"type":"SENSOR","timestamp":1653449699299,"data":{"msgId":"e17036c2-110b-4457-96b7-fc7ba6d9efb8","value":3 }}
+{"type":"SENSOR","timestamp":1653449700299,"data":{"msgId":"c3eaa01b-846e-4969-8e52-3c90449b8c92","value":4 }}
+{"type":"SENSOR","timestamp":1653449701299,"data":{"msgId":"a497c2dc-9bad-4018-a42e-4c450328f5c0","value":5 }}
+{"type":"SENSOR","timestamp":1653449702299,"data":{"msgId":"23164620-42b3-4064-afb0-8c6bc10f3aaa","value":6 }}
+{"type":"SENSOR","timestamp":1653449703299,"data":{"msgId":"ee27035a-419c-47de-bc04-970475917aa2","value":7 }}
+{"type":"SENSOR","timestamp":1653449704299,"data":{"msgId":"4817f6a3-5559-450d-91c7-0b451d3ec2d3","value":8 }}
+{"type":"SENSOR","timestamp":1653449705299,"data":{"msgId":"b94be72f-51d6-4643-89ed-91b44a954308","value":9 }}
+{"type":"SENSOR","timestamp":1653449706299,"data":{"msgId":"e692fc60-18b5-4570-b11f-d43b010758c8","value":10}}
+{"type":"SENSOR","timestamp":1653449707299,"data":{"msgId":"4b1ece92-6893-483e-9e7f-d7f65dab5b50","value":11}}
+{"type":"SENSOR","timestamp":1653449708299,"data":{"msgId":"7b33b21a-339b-4022-a4e5-9bc1e7634bea","value":12}}
+{"type":"SENSOR","timestamp":1653449709299,"data":{"msgId":"c80bb61f-cf1f-4f89-8fd7-e32f20698962","value":13}}
+{"type":"SENSOR","timestamp":1653449710299,"data":{"msgId":"1cde57db-b1cd-4867-af4e-cfcb93024d41","value":14}}
+{"type":"SENSOR","timestamp":1653449711299,"data":{"msgId":"c32b07b3-4f39-4d82-9a71-cfd7a45c87e0","value":15}}
+{"type":"SENSOR","timestamp":1653449712299,"data":{"msgId":"1211e88d-e08f-4a26-bcf7-91d128399441","value":16}}
+{"type":"SENSOR","timestamp":1653449713299,"data":{"msgId":"6047a840-e809-4d75-9ad1-306134fa1f79","value":17}}
+{"type":"SENSOR","timestamp":1653449714299,"data":{"msgId":"ad51fa28-eba7-4c88-909b-665056b2ab22","value":18}}
+{"type":"SENSOR","timestamp":1653449715299,"data":{"msgId":"2ad4ed79-2957-41ba-899d-21327c52c677","value":19}}
+{"type":"SENSOR","timestamp":1653449716299,"data":{"msgId":"467bfee5-6c42-48de-af58-9e12d37b8c4e","value":20}}
+{"type":"SENSOR","timestamp":1653449717299,"data":{"msgId":"786db596-3685-4d0d-8f1c-b97d21ce0638","value":21}}
+{"type":"SENSOR","timestamp":1653449718299,"data":{"msgId":"161942ad-1dac-4b71-b9fd-705120ee308d","value":22}}
+{"type":"SENSOR","timestamp":1653449719299,"data":{"msgId":"db2698af-6884-4b62-b666-719c5a0b220a","value":23}}
+{"type":"SENSOR","timestamp":1653449720299,"data":{"msgId":"65b0146c-09d1-4d0e-a732-1a54750c2724","value":24}}
+{"type":"SENSOR","timestamp":1653449721299,"data":{"msgId":"b8d6ce22-9a33-45c8-92c8-782abeed2128","value":25}}
+{"type":"SENSOR","timestamp":1653449722299,"data":{"msgId":"be4932ba-2d74-4d92-9a54-890c471754b3","value":26}}
+{"type":"SENSOR","timestamp":1653449723299,"data":{"msgId":"3d03b6b2-952f-415e-843b-e42ef0a97956","value":27}}
+{"type":"SENSOR","timestamp":1653449724299,"data":{"msgId":"3c1fd2a0-1780-4c0a-85f2-a98f1a1d6744","value":28}}
+{"type":"SENSOR","timestamp":1653449725299,"data":{"msgId":"55286c9d-4c6d-463b-a2ed-4d44b6695d1f","value":29}}
+{"type":"SENSOR","timestamp":1653449726299,"data":{"msgId":"0a408a81-eea3-4615-a295-6b850ffaae08","value":30}}
+{"type":"SENSOR","timestamp":1653449727299,"data":{"msgId":"bc955a57-c405-468e-bfe6-a560a8d7876f","value":31}}
+{"type":"SENSOR","timestamp":1653449728299,"data":{"msgId":"92d5fe82-732b-4601-b4e7-a1dcf46ff5b3","value":32}}
+{"type":"SENSOR","timestamp":1653449729299,"data":{"msgId":"ccfd348c-024f-4ee2-a6f8-697cd8321bd2","value":33}}
+{"type":"SENSOR","timestamp":1653449730299,"data":{"msgId":"f613eefb-36ec-48ed-ac38-57a5cef127dc","value":34}}
+{"type":"SENSOR","timestamp":1653449731299,"data":{"msgId":"9b15a9e8-cf69-470b-bae4-5bd4fba2cafc","value":35}}
+{"type":"SENSOR","timestamp":1653449732299,"data":{"msgId":"01833346-ce1b-49e2-8758-78a99116c501","value":36}}
+{"type":"SENSOR","timestamp":1653449733299,"data":{"msgId":"52b48eb8-443c-4fd3-aad7-dcbb73e8d9dc","value":37}}
+{"type":"SENSOR","timestamp":1653449734299,"data":{"msgId":"18a9285a-9977-471c-9632-c2df5afbc8d4","value":38}}
+{"type":"SENSOR","timestamp":1653449735299,"data":{"msgId":"7a711f71-b8cb-4a06-bbc5-0b8cb2d2d977","value":39}}
+{"type":"SENSOR","timestamp":1653449736299,"data":{"msgId":"8ef869d7-196f-4252-9776-511de705f83b","value":40}}
+{"type":"SENSOR","timestamp":1653449737299,"data":{"msgId":"b76b779c-8db4-4e5d-91f5-a662cd27ffe3","value":41}}
+{"type":"SENSOR","timestamp":1653449738299,"data":{"msgId":"6cd78e19-79c4-40f2-88f0-33f9606ce4a6","value":42}}
+{"type":"SENSOR","timestamp":1653449739299,"data":{"msgId":"3bf6ea35-5c6e-4bd6-9450-5ede21c4288b","value":43}}
+{"type":"SENSOR","timestamp":1653449740299,"data":{"msgId":"7e131f1a-b23c-41bf-99c5-448426ba78e0","value":44}}
+{"type":"SENSOR","timestamp":1653449748299,"data":{"msgId":"85e3d949-bb4a-41a7-8fc9-f8b3d015f22e","value":2 }}
+{"type":"SENSOR","timestamp":1653449749299,"data":{"msgId":"d4d49b33-512e-408a-a950-c6dea5bd8893","value":3 }}
+{"type":"SENSOR","timestamp":1653449750299,"data":{"msgId":"4cac61fa-883a-4c43-9fc9-d28cc07f6d68","value":4 }}
+{"type":"SENSOR","timestamp":1653449751299,"data":{"msgId":"22b9ba56-36d9-46b3-8d8c-5b54e7737cfa","value":5 }}
+{"type":"SENSOR","timestamp":1653449752299,"data":{"msgId":"5da3e0e4-6c6f-444d-99ce-e6eec48bdbfe","value":6 }}
+{"type":"SENSOR","timestamp":1653449753299,"data":{"msgId":"b7d609db-ecc4-4427-9d27-c853f8b2693b","value":7 }}
+{"type":"SENSOR","timestamp":1653449754299,"data":{"msgId":"77f20b08-8c66-4eb1-bf9c-81d2dd508610","value":8 }}
+{"type":"SENSOR","timestamp":1653449755299,"data":{"msgId":"74285a18-615a-48c7-8b79-e36ecefda784","value":9 }}
+{"type":"SENSOR","timestamp":1653449756299,"data":{"msgId":"73f3a3a1-2136-43f7-b6f3-99e8fb800b68","value":10}}
+{"type":"SENSOR","timestamp":1653449757299,"data":{"msgId":"41ee02b2-9248-460f-81cf-451e4486886f","value":11}}
+{"type":"SENSOR","timestamp":1653449758299,"data":{"msgId":"f2213be1-22ec-442d-b021-d6bbc8a5eab8","value":12}}
+{"type":"SENSOR","timestamp":1653449759299,"data":{"msgId":"bd70e3cd-1fd4-4ceb-bf19-be5f7d0c0ed8","value":13}}
+{"type":"SENSOR","timestamp":1653449760299,"data":{"msgId":"f39b45f2-26fb-427a-82b5-d7e3047cba5d","value":14}}
+{"type":"SENSOR","timestamp":1653449761299,"data":{"msgId":"2be2c4e8-2a1d-445c-97ce-646e9cd54db6","value":15}}
+{"type":"SENSOR","timestamp":1653449762299,"data":{"msgId":"25655a64-d626-4cc5-bcdc-0781d2d12fd2","value":16}}
+{"type":"SENSOR","timestamp":1653449763299,"data":{"msgId":"2f3ee2da-f61e-4055-83dc-14e4faf88ef9","value":17}}
+{"type":"SENSOR","timestamp":1653449764299,"data":{"msgId":"8316bf66-4019-4aa0-9a66-22348c84a72b","value":18}}
+{"type":"SENSOR","timestamp":1653449765299,"data":{"msgId":"420d5701-6154-4af3-a918-ce4d1576fe57","value":19}}
+{"type":"SENSOR","timestamp":1653449766299,"data":{"msgId":"12cf08c5-af4c-4ce8-b79e-670265f79d74","value":20}}
+{"type":"SENSOR","timestamp":1653449767299,"data":{"msgId":"40e311a8-20a4-41b2-9a79-b15ea9131d91","value":21}}
+{"type":"SENSOR","timestamp":1653449768299,"data":{"msgId":"c017adec-3183-4799-810c-d19c55e33a90","value":22}}
+{"type":"SENSOR","timestamp":1653449769299,"data":{"msgId":"9940e0b4-9d78-4e76-926d-7809e77fb236","value":23}}
+{"type":"SENSOR","timestamp":1653449770299,"data":{"msgId":"f39ad926-abe1-4cbb-acf2-8d040798064e","value":24}}
+{"type":"SENSOR","timestamp":1653449771299,"data":{"msgId":"37eb5767-af18-4fa0-873f-0ed89fc360a6","value":25}}
+{"type":"SENSOR","timestamp":1653449776299,"data":{"msgId":"9ca0d386-6eab-4506-8484-b708d981bd35","value":30}}
+{"type":"SENSOR","timestamp":1653449777299,"data":{"msgId":"f111b8cd-83ff-4791-a1a7-16720a0962ff","value":31}}
+{"type":"SENSOR","timestamp":1653449778299,"data":{"msgId":"86bb9c0c-f343-41be-a650-f5e390f5004e","value":32}}
+{"type":"SENSOR","timestamp":1653449779299,"data":{"msgId":"7f53f6b0-e296-47f0-9731-f148f5668884","value":33}}
+{"type":"SENSOR","timestamp":1653449780299,"data":{"msgId":"8f6451fd-661a-416d-9034-41c3941a33f7","value":34}}
+{"type":"SENSOR","timestamp":1653449781299,"data":{"msgId":"d26aa586-66c9-4088-a777-a9f55b2e9279","value":35}}
+{"type":"SENSOR","timestamp":1653449786299,"data":{"msgId":"c67dd674-ff66-4894-9059-ac1663abc164","value":40}}
+{"type":"SENSOR","timestamp":1653449787299,"data":{"msgId":"aa0028a1-a96b-42dd-a96e-a500ee2fa48c","value":41}}
+{"type":"SENSOR","timestamp":1653449788299,"data":{"msgId":"b030893a-9378-4c11-ad60-21c615705b08","value":42}}
+{"type":"SENSOR","timestamp":1653449789299,"data":{"msgId":"1ed91fd9-bc0d-4c5b-8a08-e5392aab85ac","value":43}}
+{"type":"SENSOR","timestamp":1653449790299,"data":{"msgId":"d563b5c7-dc92-4b25-ade5-ba99ee77ddfa","value":44}}
+{"type":"SENSOR","timestamp":1653449791299,"data":{"msgId":"465bc039-5922-4caf-9a45-7c2fcc9770fb","value":45}}
+{"type":"SENSOR","timestamp":1653449792299,"data":{"msgId":"400c34b5-c899-4f38-a04b-2c53b787577b","value":46}}
+{"type":"SENSOR","timestamp":1653449793299,"data":{"msgId":"c654356d-e669-495a-8275-79c8aa8f65d9","value":47}}
+{"type":"SENSOR","timestamp":1653449794299,"data":{"msgId":"25f3b27e-3df3-4265-bcc1-74c19aa12cf8","value":48}}
+{"type":"SENSOR","timestamp":1653449795299,"data":{"msgId":"2086314c-6844-43a6-a4f0-a3e9adf10860","value":49}}
+{"type":"SENSOR","timestamp":1653449796299,"data":{"msgId":"53025163-1539-46f8-8680-1a512a1c1971","value":0 }}
+{"type":"SENSOR","timestamp":1653449797299,"data":{"msgId":"1c435519-4023-4f59-9eff-e638d0aad2be","value":1 }}
+{"type":"SENSOR","timestamp":1653449798299,"data":{"msgId":"c01f7ecb-1806-497d-a31c-f1b6da41468e","value":2 }}
+{"type":"SENSOR","timestamp":1653449799299,"data":{"msgId":"c2d6304d-15a5-43c9-8926-bf2d16afc08e","value":3 }}
+{"type":"SENSOR","timestamp":1653449800299,"data":{"msgId":"54be5a50-1e12-48a8-842c-65698264b846","value":4 }}
+{"type":"SENSOR","timestamp":1653449801299,"data":{"msgId":"9a63a11a-027c-49e9-b595-4473b9f5e944","value":5 }}
+{"type":"SENSOR","timestamp":1653449802299,"data":{"msgId":"c5da28aa-cafb-41c0-9c4e-cbfbc5f24a40","value":6 }}
+{"type":"SENSOR","timestamp":1653449803299,"data":{"msgId":"07152b3f-70cb-4ec4-9345-bd7d392ab624","value":7 }}
+{"type":"SENSOR","timestamp":1653449804299,"data":{"msgId":"db680722-c838-4e29-a2eb-59dd679f09c4","value":8 }}
+{"type":"SENSOR","timestamp":1653449805299,"data":{"msgId":"f4a523a0-af69-492f-9036-e6d6bbc657ed","value":9 }}
+{"type":"SENSOR","timestamp":1653449806299,"data":{"msgId":"04952835-e5c9-40a3-904d-a164ba94a33a","value":10}}
+{"type":"SENSOR","timestamp":1653449811299,"data":{"msgId":"19eeea18-5cb3-44bc-802d-cee6ae3e6aa6","value":15}}
+{"type":"SENSOR","timestamp":1653449812299,"data":{"msgId":"ac2f6bc0-5c74-4740-9a86-3267fae46980","value":16}}
+{"type":"SENSOR","timestamp":1653449813299,"data":{"msgId":"f60a0f82-ded9-46ca-8d42-ee557c71a8ac","value":17}}
+{"type":"SENSOR","timestamp":1653449814299,"data":{"msgId":"04106cbb-a501-4bec-be2c-223957ee753f","value":18}}
+{"type":"SENSOR","timestamp":1653449819299,"data":{"msgId":"08e8baf5-e583-4428-a8ff-871e30ce1a95","value":23}}
+{"type":"SENSOR","timestamp":1653449820299,"data":{"msgId":"50bc01ea-6553-4aed-b3e9-3264c0a1dfc8","value":24}}
+{"type":"SENSOR","timestamp":1653449821299,"data":{"msgId":"a26ad549-1947-4099-9144-adf60cacd1f4","value":25}}
+{"type":"SENSOR","timestamp":1653449822299,"data":{"msgId":"b1da9db5-702f-48c6-8e3d-1d7f1876bf11","value":26}}
+{"type":"SENSOR","timestamp":1653449823299,"data":{"msgId":"134ac728-f54f-43a9-a2b1-f77b4a7baa4f","value":27}}
+{"type":"SENSOR","timestamp":1653449824299,"data":{"msgId":"3d53c69b-bc5e-4e43-ab31-ac0c8ac2b72a","value":28}}
+{"type":"SENSOR","timestamp":1653449825299,"data":{"msgId":"c97bd414-701a-4244-ba8b-7d9fc1d30faa","value":29}}
+{"type":"SENSOR","timestamp":1653449826299,"data":{"msgId":"709dbf9f-3b6c-43ff-894b-92adaf50e5f2","value":30}}
+{"type":"SENSOR","timestamp":1653449827299,"data":{"msgId":"0ed07080-a90a-44a7-9de8-b7743f63b0b1","value":31}}
+{"type":"SENSOR","timestamp":1653449828299,"data":{"msgId":"14a1792e-9a88-4fb5-ab76-f76749cfec29","value":32}}
+{"type":"SENSOR","timestamp":1653449829299,"data":{"msgId":"2c6ad5bf-0a40-4965-83a7-48e9b23dbcab","value":33}}
+{"type":"SENSOR","timestamp":1653449830299,"data":{"msgId":"eebbd045-10c9-4d6f-bb80-88bd9a984957","value":34}}
+{"type":"SENSOR","timestamp":1653449831299,"data":{"msgId":"716639fa-fd10-4369-b864-4b78fcffa793","value":35}}
+{"type":"SENSOR","timestamp":1653449832299,"data":{"msgId":"c7eeb66a-0b6a-4aaf-98bc-0c04dcbc1f2d","value":36}}
+{"type":"SENSOR","timestamp":1653449833299,"data":{"msgId":"b4ee8a1f-6f77-43ad-bf6d-8ca49ec2eebe","value":37}}
+{"type":"SENSOR","timestamp":1653449834299,"data":{"msgId":"5497672b-e83a-4f58-aa59-d0ce98a6f6c1","value":38}}
+{"type":"SENSOR","timestamp":1653449835299,"data":{"msgId":"c68cc63b-359e-48fc-89ab-dda76fa3565b","value":39}}
+{"type":"SENSOR","timestamp":1653449836299,"data":{"msgId":"52ffc7f8-ea5d-462e-a653-0052ca722ed1","value":40}}
+{"type":"SENSOR","timestamp":1653449837299,"data":{"msgId":"7e9c228b-dd3c-4689-8813-867ed5e2b472","value":41}}
+{"type":"SENSOR","timestamp":1653449838299,"data":{"msgId":"42c11198-b860-47c4-b015-d5cfc1f49547","value":42}}
+{"type":"SENSOR","timestamp":1653449839299,"data":{"msgId":"83df8e26-156b-424d-89d5-6c86a585ad18","value":43}}
+{"type":"SENSOR","timestamp":1653449840299,"data":{"msgId":"7c2e3808-e6b2-491e-8114-f708fd683292","value":44}}
+{"type":"SENSOR","timestamp":1653449841299,"data":{"msgId":"886715f2-c325-41d9-8f23-aa4328294e61","value":45}}
+{"type":"SENSOR","timestamp":1653449842299,"data":{"msgId":"15479256-53f4-4142-b75c-011589c129a2","value":46}}
+{"type":"SENSOR","timestamp":1653449843299,"data":{"msgId":"7946aca6-3bae-4440-b423-2d12455f4e74","value":47}}
+{"type":"SENSOR","timestamp":1653449844299,"data":{"msgId":"650b643a-9a9d-4329-b835-5e32136c1bd8","value":48}}
+{"type":"SENSOR","timestamp":1653449845299,"data":{"msgId":"9631d01c-9db6-4b82-a22e-3b537de29b18","value":49}}
+{"type":"SENSOR","timestamp":1653449846299,"data":{"msgId":"6e739394-c9cf-45d1-95e2-8a8f2d4f510a","value":0 }}
+{"type":"SENSOR","timestamp":1653449847299,"data":{"msgId":"930bfbec-da34-404d-842d-22813c12a3ec","value":1 }}
+{"type":"SENSOR","timestamp":1653449848299,"data":{"msgId":"fe422fd3-ccc1-4a98-93c7-c02216abb10f","value":2 }}
+{"type":"SENSOR","timestamp":1653449849299,"data":{"msgId":"44e7679c-310c-4599-a88e-4dac438b8a5b","value":3 }}
+{"type":"SENSOR","timestamp":1653449850299,"data":{"msgId":"0a7e72cc-9723-419b-8a38-18b7075114ca","value":4 }}
+{"type":"SENSOR","timestamp":1653449851299,"data":{"msgId":"7880accc-070e-4d0e-aebb-f07802c60f9e","value":5 }}
+{"type":"SENSOR","timestamp":1653449852299,"data":{"msgId":"1cf772c4-79a0-4e73-9b1b-266471f6661b","value":6 }}
+{"type":"SENSOR","timestamp":1653449853299,"data":{"msgId":"3cd7ba91-71af-4653-921b-6e53e2eae560","value":7 }}
+{"type":"SENSOR","timestamp":1653449854299,"data":{"msgId":"4baafc6f-7f20-4d96-ae39-98ec2be40960","value":8 }}
+{"type":"SENSOR","timestamp":1653449855299,"data":{"msgId":"b0f11d90-3d6b-49ae-b2bd-c9b46f2133a6","value":9 }}
+{"type":"SENSOR","timestamp":1653449856299,"data":{"msgId":"2c85806d-23b1-4ff7-998d-59d64db31588","value":10}}
+{"type":"SENSOR","timestamp":1653449857299,"data":{"msgId":"8fd7f85a-49ed-48a1-ade2-238fefda257e","value":11}}
+{"type":"SENSOR","timestamp":1653449858299,"data":{"msgId":"ef536f63-c6c3-4e86-8fa1-1f7c225f79ec","value":12}}
+{"type":"SENSOR","timestamp":1653449859299,"data":{"msgId":"1304a6bf-7705-44e4-ad4d-d8fdd3d239e3","value":13}}
+{"type":"SENSOR","timestamp":1653449860299,"data":{"msgId":"ea82f35c-9213-4ab8-bf1d-f4608c3c18d3","value":14}}
+{"type":"SENSOR","timestamp":1653449861301,"data":{"msgId":"b0a36a76-29ef-4163-8187-fd63d40cf552","value":15}}
+{"type":"SENSOR","timestamp":1653449862299,"data":{"msgId":"f5612202-d5dc-45b5-a6c8-7ddc76835f1b","value":16}}
+{"type":"SENSOR","timestamp":1653449863299,"data":{"msgId":"1ff1a6ef-b125-4fd1-911a-62dcbf0960d6","value":17}}
+{"type":"SENSOR","timestamp":1653449864299,"data":{"msgId":"ae7f801a-424d-4931-a18c-c5085c595afe","value":18}}
+{"type":"SENSOR","timestamp":1653449865299,"data":{"msgId":"48c13ee0-c4e8-4a57-b0dd-d072956626d9","value":19}}
+{"type":"SENSOR","timestamp":1653449866299,"data":{"msgId":"0a974d56-f33a-4b35-a218-8fc0901668a2","value":20}}
+{"type":"SENSOR","timestamp":1653449867299,"data":{"msgId":"ca340a76-a74e-4299-b8f4-b567778b2e38","value":21}}
+{"type":"SENSOR","timestamp":1653449868299,"data":{"msgId":"6e9f5cbb-cb99-4630-9ed2-bb49d83dd70f","value":22}}
+{"type":"SENSOR","timestamp":1653449869299,"data":{"msgId":"4332de94-6506-462b-91cf-113031436555","value":23}}
+{"type":"SENSOR","timestamp":1653449870299,"data":{"msgId":"b54f6f58-1929-414f-82a3-f275c8e24220","value":24}}
+{"type":"SENSOR","timestamp":1653449871299,"data":{"msgId":"a917439b-4b01-4de8-9aae-955a3ab73c7a","value":25}}
+{"type":"SENSOR","timestamp":1653449872299,"data":{"msgId":"53769d86-d02b-4b5c-a244-782d72a680ea","value":26}}
+{"type":"SENSOR","timestamp":1653449873299,"data":{"msgId":"167976fc-a4ec-402c-92c4-87b53d654d74","value":27}}
+{"type":"SENSOR","timestamp":1653449874299,"data":{"msgId":"d0446c62-dd3e-49db-a3fe-94e94450334f","value":28}}
+{"type":"SENSOR","timestamp":1653449875299,"data":{"msgId":"7511d4ef-adf4-42b6-b848-114893aa47b7","value":29}}
+{"type":"SENSOR","timestamp":1653449876299,"data":{"msgId":"be6eb724-0d3c-4d06-b09c-e952c5325b22","value":30}}
+{"type":"SENSOR","timestamp":1653449877299,"data":{"msgId":"602b2939-6ba7-4b4e-9391-107820f2646a","value":31}}
+{"type":"SENSOR","timestamp":1653449878299,"data":{"msgId":"1f41ab69-12bb-4b98-a41b-54b6bf38ffb2","value":32}}
+{"type":"SENSOR","timestamp":1653449879299,"data":{"msgId":"e3a1e4f4-78fc-443f-9b3e-307c3ee6a952","value":33}}
+{"type":"SENSOR","timestamp":1653449880299,"data":{"msgId":"89707fd7-471e-46a3-acd7-69da639b2f2d","value":34}}
+{"type":"SENSOR","timestamp":1653449881299,"data":{"msgId":"0a3efb87-f39f-4283-9efe-6ac15eb4386b","value":35}}
+{"type":"SENSOR","timestamp":1653449882299,"data":{"msgId":"3825829e-b89e-43cb-8339-ba06e966789e","value":36}}
+{"type":"SENSOR","timestamp":1653449883299,"data":{"msgId":"caa3baca-a88e-4b00-ad17-70534679e453","value":37}}
+{"type":"SENSOR","timestamp":1653449884299,"data":{"msgId":"555a691e-a94b-43fb-9b66-9a61fb8af051","value":38}}
+{"type":"SENSOR","timestamp":1653449885299,"data":{"msgId":"6fab9de9-d43c-4f6a-93b5-a3e72f45ef74","value":39}}
+{"type":"SENSOR","timestamp":1653449886299,"data":{"msgId":"2d6c7048-2f27-4330-9aa7-36bd414f9a2c","value":40}}
+{"type":"SENSOR","timestamp":1653449887299,"data":{"msgId":"d38e3058-67af-4ce3-ab21-f577f73db8eb","value":41}}
+{"type":"SENSOR","timestamp":1653449888299,"data":{"msgId":"d5a1037f-2557-4df1-89b1-bfc314c50be8","value":42}}
+{"type":"SENSOR","timestamp":1653449889299,"data":{"msgId":"667161bd-ab4f-4994-84b9-8dee07d53194","value":43}}
+{"type":"SENSOR","timestamp":1653449890299,"data":{"msgId":"fa2b51af-de74-464c-beb2-9a973183f4e4","value":44}}
+{"type":"SENSOR","timestamp":1653449891299,"data":{"msgId":"85e620d1-5686-42e7-80aa-e25ab1d1217d","value":45}}
+{"type":"SENSOR","timestamp":1653449892299,"data":{"msgId":"9ba330ee-87b7-460e-9238-7333c058c24b","value":46}}
+{"type":"SENSOR","timestamp":1653449893299,"data":{"msgId":"f9833753-be23-467c-b03b-fabdacbdf4ed","value":47}}
+{"type":"SENSOR","timestamp":1653449894299,"data":{"msgId":"831357cd-342e-4ef4-9cf8-95c5ee2907b6","value":48}}
+{"type":"SENSOR","timestamp":1653449895299,"data":{"msgId":"812c14d4-fbb1-49cf-835d-eed31bc22ff2","value":49}}
+{"type":"SENSOR","timestamp":1653449896299,"data":{"msgId":"f60888cc-0fb7-4b78-8999-a332652d3bf0","value":0 }}
+{"type":"SENSOR","timestamp":1653449897299,"data":{"msgId":"e2acfedf-d8a6-41ea-b82a-89976da16c00","value":1 }}
+{"type":"SENSOR","timestamp":1653449898299,"data":{"msgId":"29025c7e-1e38-4fd4-90d0-69d34a5d44a1","value":2 }}
+{"type":"SENSOR","timestamp":1653449899299,"data":{"msgId":"9ff2e7f1-ee5e-49ba-8e1d-0013995977f2","value":3 }}
+{"type":"SENSOR","timestamp":1653449900299,"data":{"msgId":"68266420-b4a5-421e-9b55-ed491a70038c","value":4 }}
+{"type":"SENSOR","timestamp":1653449901299,"data":{"msgId":"ca2f6292-1fcb-42ff-ae17-f94d61693a2f","value":5 }}
+{"type":"SENSOR","timestamp":1653449902299,"data":{"msgId":"b133a78a-b624-403b-8c30-9d65cd4d2055","value":6 }}
+{"type":"SENSOR","timestamp":1653449903299,"data":{"msgId":"6d1e205a-fb52-41ea-9e11-7006d70ecd17","value":7 }}
+{"type":"SENSOR","timestamp":1653449904299,"data":{"msgId":"01ba85bc-c347-4ec9-881a-5e23cec2afe1","value":8 }}
+{"type":"SENSOR","timestamp":1653449905299,"data":{"msgId":"9a08beec-e94e-45a1-89de-0446e8e53b1a","value":9 }}
+{"type":"SENSOR","timestamp":1653449906299,"data":{"msgId":"f9c48161-4f84-49e7-b6ee-4cf66e8eba95","value":10}}
+{"type":"SENSOR","timestamp":1653449907299,"data":{"msgId":"167808b3-3642-468b-bfe3-e6ed8b40488d","value":11}}
+{"type":"SENSOR","timestamp":1653449908299,"data":{"msgId":"7323e3a4-d442-4241-baae-41a8f7b840d9","value":12}}
+{"type":"SENSOR","timestamp":1653449909299,"data":{"msgId":"1a329c02-fda4-4c6a-abcf-87a2c606fcc2","value":13}}
+{"type":"SENSOR","timestamp":1653449910299,"data":{"msgId":"69df4603-7ac7-48b1-b1f1-c27cca1fa00b","value":14}}
+{"type":"SENSOR","timestamp":1653449911299,"data":{"msgId":"5eb36e81-4e5b-4d29-a399-15ca440c3397","value":15}}
+{"type":"SENSOR","timestamp":1653449912299,"data":{"msgId":"ced7029b-eeb1-4e5a-a170-708bcc7a525c","value":16}}
+{"type":"SENSOR","timestamp":1653449913299,"data":{"msgId":"10792d08-5808-4dfd-86b6-80081523ffa1","value":17}}
+{"type":"SENSOR","timestamp":1653449914299,"data":{"msgId":"f5497edd-3b43-4a6d-ba10-c2234b8bf313","value":18}}
+{"type":"SENSOR","timestamp":1653449915299,"data":{"msgId":"cf61b068-6b05-46a8-a66d-e51113585098","value":19}}
+{"type":"SENSOR","timestamp":1653449916299,"data":{"msgId":"4c2d56c1-54a5-46c5-8f4b-52186fa26f80","value":20}}
+{"type":"SENSOR","timestamp":1653449917299,"data":{"msgId":"6be22201-5e10-4c76-80f5-5a0eae67b0c8","value":21}}
+{"type":"SENSOR","timestamp":1653449918299,"data":{"msgId":"1a4d6eb9-53e6-4cdc-82c3-b7079ac4af74","value":22}}
+{"type":"SENSOR","timestamp":1653449919299,"data":{"msgId":"226be726-a757-4d87-9e9a-de5375442db9","value":23}}
+{"type":"SENSOR","timestamp":1653449920299,"data":{"msgId":"6b7f6fab-2036-4509-a4e3-0d71cdaac098","value":24}}
+{"type":"SENSOR","timestamp":1653449921299,"data":{"msgId":"bebddb84-6028-4c00-a2f0-f1a24ca04c3d","value":25}}
+{"type":"SENSOR","timestamp":1653449922299,"data":{"msgId":"96722fec-1f0b-47b2-905f-02c7c034309c","value":26}}
+{"type":"SENSOR","timestamp":1653449923299,"data":{"msgId":"01773243-0a71-47bd-af82-70dd1167d8c9","value":27}}
+{"type":"SENSOR","timestamp":1653449924299,"data":{"msgId":"7f1dfbfd-d01a-44f0-95da-513dba7104d6","value":28}}
+{"type":"SENSOR","timestamp":1653449925299,"data":{"msgId":"c73a6d6e-ea58-4390-aa4c-e53d226f6076","value":29}}
+{"type":"SENSOR","timestamp":1653449926299,"data":{"msgId":"f58a5e20-1ef0-4d01-860b-3b1f5879b973","value":30}}
+{"type":"SENSOR","timestamp":1653449927299,"data":{"msgId":"9cb64970-2dc0-47ef-ae7e-68b6df9f8a7d","value":31}}
+{"type":"SENSOR","timestamp":1653449928299,"data":{"msgId":"4903dfb1-fcd5-45f5-b3dd-96dfd637a874","value":32}}
+{"type":"SENSOR","timestamp":1653449929299,"data":{"msgId":"9aa5e075-99cf-4637-b728-b1704283096a","value":33}}
+{"type":"SENSOR","timestamp":1653449930299,"data":{"msgId":"95dc020b-67ee-4866-97be-b4e49237abe6","value":34}}
+{"type":"SENSOR","timestamp":1653449931299,"data":{"msgId":"f61980a1-05ed-4b39-ba68-33dba48c6177","value":35}}
+{"type":"SENSOR","timestamp":1653449932299,"data":{"msgId":"62708835-0a8f-4f76-884a-deabbd21b323","value":36}}
+{"type":"SENSOR","timestamp":1653449933299,"data":{"msgId":"8356d3fa-1fd6-4c19-bc7e-50913fd64094","value":37}}
+{"type":"SENSOR","timestamp":1653449934299,"data":{"msgId":"77434de8-6664-444d-bc39-09adced88848","value":38}}
+{"type":"SENSOR","timestamp":1653449935299,"data":{"msgId":"fd739395-721a-4db2-bd64-f7a5d4375404","value":39}}
+{"type":"SENSOR","timestamp":1653449936299,"data":{"msgId":"92f719b0-0eb3-4106-bde5-6a1a72e6634b","value":40}}
+{"type":"SENSOR","timestamp":1653449937299,"data":{"msgId":"e69b4cc9-1b39-459a-beb4-bcb2c51f5e31","value":41}}
+{"type":"SENSOR","timestamp":1653449938299,"data":{"msgId":"ffccae11-1de6-4405-addb-d9cf100f52b5","value":42}}
+{"type":"SENSOR","timestamp":1653449939299,"data":{"msgId":"a91a494b-ce01-4af0-b03c-8d98cd82e00c","value":43}}
+{"type":"SENSOR","timestamp":1653449940299,"data":{"msgId":"432a0486-eece-475b-a0b9-bc6decd50a97","value":44}}
+{"type":"SENSOR","timestamp":1653449941299,"data":{"msgId":"ec8dd370-11ea-48ec-8b70-4a02c2bb5e64","value":45}}
+{"type":"SENSOR","timestamp":1653449942299,"data":{"msgId":"b7a8586c-f436-414a-867b-1a1609f0bcc4","value":46}}
+{"type":"SENSOR","timestamp":1653449943299,"data":{"msgId":"a4f2c01a-db4b-44ba-bc5e-cf2d8f295f83","value":47}}
+{"type":"SENSOR","timestamp":1653449944299,"data":{"msgId":"b9ec179f-341f-44c1-919f-844eaca74340","value":48}}
+{"type":"SENSOR","timestamp":1653449945299,"data":{"msgId":"80205a6b-c12d-4d8e-ac02-13be63ebf2cd","value":49}}
+{"type":"SENSOR","timestamp":1653449946299,"data":{"msgId":"835df9cb-beb5-44f1-b2be-74f7def05a9d","value":0 }}
+{"type":"SENSOR","timestamp":1653449947299,"data":{"msgId":"e31cc347-b2f4-41e4-b122-6e707b4de49b","value":1 }}
+{"type":"SENSOR","timestamp":1653449948299,"data":{"msgId":"f578c5f5-b30a-4774-bc4d-b8add9438e17","value":2 }}
+{"type":"SENSOR","timestamp":1653449949299,"data":{"msgId":"034bfe2d-cbec-4e95-862d-0c21eb20a10a","value":3 }}
+{"type":"SENSOR","timestamp":1653449950300,"data":{"msgId":"d33d4c33-e6b9-45b8-a88c-e32a2f728ea1","value":4 }}
+{"type":"SENSOR","timestamp":1653449951299,"data":{"msgId":"4159b759-5d4f-4f34-9ab3-8a60cd3d46d1","value":5 }}
+{"type":"SENSOR","timestamp":1653449952299,"data":{"msgId":"7562997b-e6c6-46a7-8454-6797b9b97f14","value":6 }}
+{"type":"SENSOR","timestamp":1653449953299,"data":{"msgId":"4c02e08e-befd-4ca3-9e1b-a6a32224931f","value":7 }}
+{"type":"SENSOR","timestamp":1653449954299,"data":{"msgId":"52a7de1b-0711-4399-b6b3-3b687240c2a8","value":8 }}
+{"type":"SENSOR","timestamp":1653449955299,"data":{"msgId":"5e366122-6553-468e-a609-5047187fbf09","value":9 }}
+{"type":"SENSOR","timestamp":1653449956299,"data":{"msgId":"4637dff8-15ca-4bed-aa41-00f17402eaf5","value":10}}
+{"type":"SENSOR","timestamp":1653449957299,"data":{"msgId":"a5df8fe8-a032-4729-b3f6-608cbf4a9ab8","value":11}}
+{"type":"SENSOR","timestamp":1653449958299,"data":{"msgId":"249d2a2d-10ee-4f51-8f91-6fd0c16e2398","value":12}}
+{"type":"SENSOR","timestamp":1653449959299,"data":{"msgId":"2d9c85c3-898c-4ba3-aa95-5d06f3192374","value":13}}
+{"type":"SENSOR","timestamp":1653449960299,"data":{"msgId":"ca5537f1-c372-4537-9813-540bcef4d297","value":14}}
+{"type":"SENSOR","timestamp":1653449961299,"data":{"msgId":"436509b1-6987-4002-8b30-74d7986d934a","value":15}}
+{"type":"SENSOR","timestamp":1653449962299,"data":{"msgId":"e7532917-3844-482b-b79b-a8f84d985e91","value":16}}
+{"type":"SENSOR","timestamp":1653449963299,"data":{"msgId":"18321af4-ba83-4854-a6d1-d217d49c563c","value":17}}
+{"type":"SENSOR","timestamp":1653449964299,"data":{"msgId":"ede8220c-71b1-457c-93d3-eb6660ac02bd","value":18}}
+{"type":"SENSOR","timestamp":1653449965299,"data":{"msgId":"66b20b22-ea52-4538-b29a-a10ed39cc3ab","value":19}}
+{"type":"SENSOR","timestamp":1653449966299,"data":{"msgId":"e29c6e44-44b1-485d-8cbb-fce3b94c52a6","value":20}}
+{"type":"SENSOR","timestamp":1653449967299,"data":{"msgId":"f46b3ecd-0165-45eb-a06e-d83f40bfa3c4","value":21}}
+{"type":"SENSOR","timestamp":1653449968299,"data":{"msgId":"5db2c749-c983-4a9c-a7e0-c931072d34f1","value":22}}
+{"type":"SENSOR","timestamp":1653449969299,"data":{"msgId":"0987c58a-5847-4b51-ad1f-1ab9c13c4fef","value":23}}
+{"type":"SENSOR","timestamp":1653449970299,"data":{"msgId":"24aef9c0-2d1c-489f-9741-c0c2615550db","value":24}}
+{"type":"SENSOR","timestamp":1653449971299,"data":{"msgId":"129d254d-f153-4361-9943-08ff445c1471","value":25}}
+{"type":"SENSOR","timestamp":1653449972299,"data":{"msgId":"0d1ab792-61dc-4094-9b71-c84aeeadcf26","value":26}}
+{"type":"SENSOR","timestamp":1653449973299,"data":{"msgId":"be779f7e-ab46-4d3e-ad7a-85d342521715","value":27}}
+{"type":"SENSOR","timestamp":1653449974299,"data":{"msgId":"029e466a-c063-4bf1-a139-76b6d4e5855a","value":28}}
+{"type":"SENSOR","timestamp":1653449975299,"data":{"msgId":"54b5ab9c-07a9-45aa-b6e2-f8251d02a793","value":29}}
+{"type":"SENSOR","timestamp":1653449976299,"data":{"msgId":"066018ad-c44d-4962-bd1a-d320a4b53876","value":30}}
+{"type":"SENSOR","timestamp":1653449977299,"data":{"msgId":"7993bf9c-e282-4221-917c-43e1c3e4964e","value":31}}
+{"type":"SENSOR","timestamp":1653449978299,"data":{"msgId":"1c088f8f-a031-46b4-8582-ca77d790d923","value":32}}
+{"type":"SENSOR","timestamp":1653449979299,"data":{"msgId":"25a60a05-8642-445d-a8c4-88867809fc58","value":33}}
+{"type":"SENSOR","timestamp":1653449980299,"data":{"msgId":"1095a9f1-e86a-404d-8d70-e92f8fcfce2a","value":34}}
+{"type":"SENSOR","timestamp":1653449981299,"data":{"msgId":"cc2d1023-c572-4fb2-86fc-cc8151187bf1","value":35}}
+{"type":"SENSOR","timestamp":1653449982299,"data":{"msgId":"918afff8-c8ec-49f3-84e8-42b915bff240","value":36}}
+{"type":"SENSOR","timestamp":1653449983299,"data":{"msgId":"79cd171e-bf33-45a2-8f6b-935e8bbc57fd","value":37}}
+{"type":"SENSOR","timestamp":1653449984299,"data":{"msgId":"caa1fe02-ea41-4491-ac14-b007be6b3833","value":38}}
+{"type":"SENSOR","timestamp":1653449985299,"data":{"msgId":"4b69d544-7799-4be7-bca3-8cd70bbf29e2","value":39}}
+{"type":"SENSOR","timestamp":1653449986299,"data":{"msgId":"1279ceeb-0d06-4bc0-89ec-92385de3c7c1","value":40}}
+{"type":"SENSOR","timestamp":1653449987299,"data":{"msgId":"a0d1a074-18a7-4fb5-8a35-e6d04f8e75e0","value":41}}
+{"type":"SENSOR","timestamp":1653449988299,"data":{"msgId":"3bf89b85-8da7-4ba5-8710-5f44cbc19502","value":42}}
+{"type":"SENSOR","timestamp":1653449989299,"data":{"msgId":"456e42f5-aba2-466f-a458-2c90f724db18","value":43}}
+{"type":"SENSOR","timestamp":1653449990299,"data":{"msgId":"5051082e-b6cb-45b4-bd59-852a4e458eda","value":44}}
+{"type":"SENSOR","timestamp":1653449991299,"data":{"msgId":"b41e4b61-59ef-41a8-aa63-50c12536316a","value":45}}
+{"type":"SENSOR","timestamp":1653449992299,"data":{"msgId":"6c055261-8f7d-400f-ba4a-b36763ec255b","value":46}}
+{"type":"SENSOR","timestamp":1653449993299,"data":{"msgId":"fed71d7f-ec33-4d98-bc4b-f5b6ef6ae414","value":47}}
+{"type":"SENSOR","timestamp":1653449994299,"data":{"msgId":"272e4baf-9417-4d19-95bc-b6b3c63d9db3","value":48}}
+{"type":"SENSOR","timestamp":1653449995299,"data":{"msgId":"833fda50-e31e-4d06-a181-f5376cf3beaf","value":49}}
+{"type":"SENSOR","timestamp":1653449996299,"data":{"msgId":"c1897697-4dee-4f51-bd66-1647d82b6d2e","value":0 }}
+{"type":"SENSOR","timestamp":1653449997299,"data":{"msgId":"c8bbbb82-ce0b-47bd-a08c-ac9dd54c2729","value":1 }}
+{"type":"SENSOR","timestamp":1653449998299,"data":{"msgId":"e0c0a8c9-2b94-4975-a780-45555912b50b","value":2 }}
+{"type":"SENSOR","timestamp":1653449999299,"data":{"msgId":"8eccd527-3c2d-484d-93e5-e45c9074a4b5","value":3 }}
+{"type":"SENSOR","timestamp":1653450000299,"data":{"msgId":"3d08c595-3a0e-46ad-9726-8b337746ee13","value":4 }}
+{"type":"SENSOR","timestamp":1653450001299,"data":{"msgId":"9566b0ce-1285-41c6-a6b2-22fa41ad4598","value":5 }}
+{"type":"SENSOR","timestamp":1653450002299,"data":{"msgId":"17a40cbc-f9e1-4c9e-bd2d-31660b1a72d1","value":6 }}
+{"type":"SENSOR","timestamp":1653450003299,"data":{"msgId":"50b916df-658c-4f04-bbb6-52c1cfcf6d0d","value":7 }}
+{"type":"SENSOR","timestamp":1653450004299,"data":{"msgId":"d4972627-3327-4296-a6fe-90481b2092c4","value":8 }}
+{"type":"SENSOR","timestamp":1653450005299,"data":{"msgId":"d63cf21b-2429-4db1-9df2-bdaf106b963d","value":9 }}
+{"type":"SENSOR","timestamp":1653450006299,"data":{"msgId":"bcb06c87-dbcf-4ba1-b1fc-76705e2c2261","value":10}}
+{"type":"SENSOR","timestamp":1653450007299,"data":{"msgId":"9b167a2e-aa4f-4ccf-8cbf-d47e3c20ee90","value":11}}
+{"type":"SENSOR","timestamp":1653450008299,"data":{"msgId":"a2d4b7e4-2bd1-418c-85c3-5d6f85e619c3","value":12}}
+{"type":"SENSOR","timestamp":1653450009299,"data":{"msgId":"08007432-4e72-4448-82ff-b8980e934ede","value":13}}
+{"type":"SENSOR","timestamp":1653450010299,"data":{"msgId":"9e1d549f-ad4d-4610-8ae5-7957515dc8b5","value":14}}
+{"type":"SENSOR","timestamp":1653450011299,"data":{"msgId":"3b427209-8837-4ea4-9c2b-97ba746d2cec","value":15}}
+{"type":"SENSOR","timestamp":1653450012299,"data":{"msgId":"11f2618d-e89c-4ab1-9112-0b223eada6e1","value":16}}
+{"type":"SENSOR","timestamp":1653450013299,"data":{"msgId":"7e855125-fb0e-424c-aceb-67f6ecf01533","value":17}}
+{"type":"SENSOR","timestamp":1653450014299,"data":{"msgId":"99229199-05a2-4d70-b824-076ab977d95d","value":18}}
+{"type":"SENSOR","timestamp":1653450015299,"data":{"msgId":"0d97a250-9f50-454c-8a64-3c00e75d69fc","value":19}}
+{"type":"SENSOR","timestamp":1653450016299,"data":{"msgId":"7a5705c7-3860-42e0-836f-7a0be1ad4321","value":20}}
+{"type":"SENSOR","timestamp":1653450017299,"data":{"msgId":"d3567839-015e-4368-b3e5-353b88a72cba","value":21}}
+{"type":"SENSOR","timestamp":1653450018299,"data":{"msgId":"c4c6b133-84c8-435a-b40f-0b2311f24218","value":22}}
+{"type":"SENSOR","timestamp":1653450019299,"data":{"msgId":"bfb98921-a6fa-4854-accb-a7167e12bcd9","value":23}}
+{"type":"SENSOR","timestamp":1653450020299,"data":{"msgId":"4cdfa3ec-6640-4639-82df-69fa120a8915","value":24}}
+{"type":"SENSOR","timestamp":1653450021299,"data":{"msgId":"8fea3688-3744-4f8e-b744-91102a5ffae2","value":25}}
+{"type":"SENSOR","timestamp":1653450022299,"data":{"msgId":"850b393e-ad8e-4bcf-9d81-d53a0ca98dcb","value":26}}
+{"type":"SENSOR","timestamp":1653450023299,"data":{"msgId":"61798db0-6cbb-40f1-b549-15c592d691e0","value":27}}
+{"type":"SENSOR","timestamp":1653450024299,"data":{"msgId":"42486a00-4d82-4e66-9a81-efa119a1c744","value":28}}
+{"type":"SENSOR","timestamp":1653450025299,"data":{"msgId":"242c04e7-c809-4f26-9879-8454ad41ff92","value":29}}
+{"type":"SENSOR","timestamp":1653450026299,"data":{"msgId":"b5cb94a7-eee0-4f18-97b6-1bbf1b2e8bd3","value":30}}
+{"type":"SENSOR","timestamp":1653450027299,"data":{"msgId":"0a3e1d22-dc3b-4ec8-8ba6-30fc5041e85b","value":31}}
+{"type":"SENSOR","timestamp":1653450028299,"data":{"msgId":"156a55cb-681f-4c95-8fa0-3329fa173601","value":32}}
+{"type":"SENSOR","timestamp":1653450029299,"data":{"msgId":"78536f17-cbc5-4069-8a68-bfa88c4cf05f","value":33}}
+{"type":"SENSOR","timestamp":1653450030299,"data":{"msgId":"033cff87-b487-48dd-8268-050dc3d6ff4b","value":34}}
+{"type":"SENSOR","timestamp":1653450031299,"data":{"msgId":"d6185803-b961-4225-a943-4259e1f3759f","value":35}}
+{"type":"SENSOR","timestamp":1653450032299,"data":{"msgId":"b15e4c3b-991d-443e-af3c-4f4442d64376","value":36}}
+{"type":"SENSOR","timestamp":1653450033299,"data":{"msgId":"87a80665-d25b-4495-8c20-c1772d953843","value":37}}
+{"type":"SENSOR","timestamp":1653450034299,"data":{"msgId":"aeff5dd1-9a0f-4402-9332-ec8602b79a83","value":38}}
+{"type":"SENSOR","timestamp":1653450035299,"data":{"msgId":"404898b1-bac9-458c-aed6-3419f51282a0","value":39}}
+{"type":"SENSOR","timestamp":1653450036299,"data":{"msgId":"269e2446-b02e-4c76-9ce1-26efd5958f25","value":40}}
+{"type":"SENSOR","timestamp":1653450037299,"data":{"msgId":"a4c749c6-5560-4a0e-9b38-1900f326fcca","value":41}}
+{"type":"SENSOR","timestamp":1653450038299,"data":{"msgId":"775afb60-2b08-436b-8ebd-5a702e0167e2","value":42}}
+{"type":"SENSOR","timestamp":1653450039299,"data":{"msgId":"af924134-3d70-4fcc-9e01-edd8402c7482","value":43}}
+{"type":"SENSOR","timestamp":1653450040299,"data":{"msgId":"1c1618cb-3fc2-45ad-b2b9-5f7fdee60e26","value":44}}
+{"type":"SENSOR","timestamp":1653450041299,"data":{"msgId":"a87fabfd-16e6-4114-a363-ce7465bb0019","value":45}}
+{"type":"SENSOR","timestamp":1653450042299,"data":{"msgId":"9c236c99-ead9-41fe-8f9e-af2dec8166e2","value":46}}
+{"type":"SENSOR","timestamp":1653450043299,"data":{"msgId":"f9064c90-e7e5-4a8e-8965-9512100abc58","value":47}}
+{"type":"SENSOR","timestamp":1653450044299,"data":{"msgId":"82040e9f-d798-45a0-9124-ca275bc383ad","value":48}}
+{"type":"SENSOR","timestamp":1653450045299,"data":{"msgId":"9f1c5ad1-e661-4383-b105-513d2e7a64d6","value":49}}
+{"type":"SENSOR","timestamp":1653450046299,"data":{"msgId":"571ccb9f-b9a0-43dc-8cde-9d0f5a420d5a","value":0 }}
+{"type":"SENSOR","timestamp":1653450047299,"data":{"msgId":"8f523a25-df31-49ab-a93f-909125a61ab1","value":1 }}
+{"type":"SENSOR","timestamp":1653450048299,"data":{"msgId":"6aa477dc-9cac-442c-a513-8e2d95a3dc29","value":2 }}
+{"type":"SENSOR","timestamp":1653450049299,"data":{"msgId":"dd37930a-9b5e-4b2f-ab14-4cc46ca88b29","value":3 }}
+{"type":"SENSOR","timestamp":1653450050299,"data":{"msgId":"c4963781-07a1-4e08-8705-5281b323a6a5","value":4 }}
+{"type":"SENSOR","timestamp":1653450051299,"data":{"msgId":"6b01640a-d9ed-4337-9fd5-60658560f6c3","value":5 }}
+{"type":"SENSOR","timestamp":1653450052299,"data":{"msgId":"cd43feb8-3199-4677-90d9-9668fdd48824","value":6 }}
+{"type":"SENSOR","timestamp":1653450053299,"data":{"msgId":"a68490e7-e3b3-4f97-9bf7-98351465d6a6","value":7 }}
+{"type":"SENSOR","timestamp":1653450054299,"data":{"msgId":"7d890907-bcfe-4aa3-978d-28b06a529d1a","value":8 }}
+{"type":"SENSOR","timestamp":1653450055299,"data":{"msgId":"5de08fbf-45b7-4297-9198-f675177e841c","value":9 }}
+{"type":"SENSOR","timestamp":1653450056299,"data":{"msgId":"d93eb7d9-7785-40c1-a31f-605165694408","value":10}}
+{"type":"SENSOR","timestamp":1653450057299,"data":{"msgId":"3389e985-c056-4a37-833e-57aefe5fc8bd","value":11}}
+{"type":"SENSOR","timestamp":1653450058299,"data":{"msgId":"4e622c9a-adc4-4789-931e-227afc061a6f","value":12}}
+{"type":"SENSOR","timestamp":1653450059299,"data":{"msgId":"f537593e-9a65-459b-a917-6dd26db22361","value":13}}
+{"type":"SENSOR","timestamp":1653450060299,"data":{"msgId":"97a1d07b-9c55-44af-9202-883ab58aff9d","value":14}}
+{"type":"SENSOR","timestamp":1653450061299,"data":{"msgId":"4b05358c-6b58-4afa-bd52-7313217188d0","value":15}}
+{"type":"SENSOR","timestamp":1653450062299,"data":{"msgId":"0ec6e9fd-50b2-4bd6-aee2-203b8c49b8eb","value":16}}
+{"type":"SENSOR","timestamp":1653450063299,"data":{"msgId":"b9f0274b-68fa-4f90-b23a-d43b70d0b16e","value":17}}
+{"type":"SENSOR","timestamp":1653450064299,"data":{"msgId":"314c61a8-e77f-400d-a654-c3ce9b5f0f22","value":18}}
+{"type":"SENSOR","timestamp":1653450065299,"data":{"msgId":"08833eaa-8499-4c69-8225-d07e65f0b55b","value":19}}
+{"type":"SENSOR","timestamp":1653450066299,"data":{"msgId":"36997ac3-07bc-4c3c-a989-b84a1ebb5f4d","value":20}}
+{"type":"SENSOR","timestamp":1653450067299,"data":{"msgId":"01934c7d-0841-4667-a330-7822c88578bf","value":21}}
+{"type":"SENSOR","timestamp":1653450068299,"data":{"msgId":"38a4be1b-9ea5-4dda-ab0c-f69520d55593","value":22}}
+{"type":"SENSOR","timestamp":1653450069299,"data":{"msgId":"404eaf87-9088-4b62-bd9f-7a1a4e9ece9e","value":23}}
+{"type":"SENSOR","timestamp":1653450070299,"data":{"msgId":"60774ac3-7522-474b-9310-90464c3a3a37","value":24}}
+{"type":"SENSOR","timestamp":1653450071299,"data":{"msgId":"10cb5a93-cfe2-450d-b123-f2d7527d5457","value":25}}
+{"type":"SENSOR","timestamp":1653450072299,"data":{"msgId":"7e77657b-9399-4e75-bd65-11f1c079d53f","value":26}}
+{"type":"SENSOR","timestamp":1653450073299,"data":{"msgId":"c5c53b3c-51c1-45cf-b3bd-ebc816a82443","value":27}}
+{"type":"SENSOR","timestamp":1653450074299,"data":{"msgId":"c1d02d68-ff99-4a46-8bb9-9f8d89382841","value":28}}
+{"type":"SENSOR","timestamp":1653450075299,"data":{"msgId":"755fb3e9-8c64-441e-9137-4fc167dc0afb","value":29}}
+{"type":"SENSOR","timestamp":1653450076299,"data":{"msgId":"fed0a6cf-34ee-4178-b681-e01248480879","value":30}}
+{"type":"SENSOR","timestamp":1653450077299,"data":{"msgId":"e51dc5b6-7711-4c10-a5c7-7faa29e0d03e","value":31}}
+{"type":"SENSOR","timestamp":1653450078299,"data":{"msgId":"28be8a67-e95e-49b0-b233-1a57464d4a7e","value":32}}
+{"type":"SENSOR","timestamp":1653450079299,"data":{"msgId":"76adedd1-d3fb-4b72-b2da-ab4a5e540402","value":33}}
+{"type":"SENSOR","timestamp":1653450080299,"data":{"msgId":"7ae51fec-fc44-4efd-a63d-292298b8a1cc","value":34}}
+{"type":"SENSOR","timestamp":1653450081299,"data":{"msgId":"b7de4be8-e3ca-444b-b49c-d95a305470a8","value":35}}
+{"type":"SENSOR","timestamp":1653450082299,"data":{"msgId":"820eb3f0-575c-4212-bb3a-3da5f4b3d741","value":36}}
+{"type":"SENSOR","timestamp":1653450083299,"data":{"msgId":"efa8e9d7-423f-4110-bb76-e577e0df8ef8","value":37}}
+{"type":"SENSOR","timestamp":1653450084299,"data":{"msgId":"6ef77982-8c6c-4562-9838-3f5cea9b028d","value":38}}
+{"type":"SENSOR","timestamp":1653450085299,"data":{"msgId":"c54f9f6e-98cd-4c84-ad4e-a63843842969","value":39}}
+{"type":"SENSOR","timestamp":1653450086299,"data":{"msgId":"3f3c2b98-8b91-4307-b230-8fe2e34c1c50","value":40}}
+{"type":"SENSOR","timestamp":1653450087299,"data":{"msgId":"3bd862df-4f1a-4f71-94f0-6bfe1c465d7e","value":41}}
+{"type":"SENSOR","timestamp":1653450088299,"data":{"msgId":"3a084342-5a48-4c87-b288-3ce30bf0c459","value":42}}
+{"type":"SENSOR","timestamp":1653450089299,"data":{"msgId":"6fce1965-b70e-49cd-b7d6-177b571bdf0b","value":43}}
+{"type":"SENSOR","timestamp":1653450090299,"data":{"msgId":"d06a5f60-ca90-41a1-bf6b-bc4808b62fbc","value":44}}
+{"type":"SENSOR","timestamp":1653450091299,"data":{"msgId":"f4a59cb7-b206-4164-bd9c-5a3375f1dee4","value":45}}
+{"type":"SENSOR","timestamp":1653450092299,"data":{"msgId":"f3bc27f9-3d85-4d77-87db-3dd33bbb910c","value":46}}
+{"type":"SENSOR","timestamp":1653450093299,"data":{"msgId":"324b468e-a674-4fb2-b15a-97e0f541bd76","value":47}}
+{"type":"SENSOR","timestamp":1653450094299,"data":{"msgId":"c0a2675c-4cd8-4dac-82fa-4e164b3ce014","value":48}}
+{"type":"SENSOR","timestamp":1653450095299,"data":{"msgId":"4942dc69-e401-4fab-b9b1-8da1f81ef0ec","value":49}}
+{"type":"SENSOR","timestamp":1653450096299,"data":{"msgId":"3508bf8a-44f2-4c85-83ee-3fc529c8ffc5","value":0 }}
+{"type":"SENSOR","timestamp":1653450097299,"data":{"msgId":"f62d8738-473a-49c1-9005-68cae8d7d031","value":1 }}
+{"type":"SENSOR","timestamp":1653450098299,"data":{"msgId":"8f99c1ae-0129-4601-aa9c-7facc557db90","value":2 }}
+{"type":"SENSOR","timestamp":1653450099299,"data":{"msgId":"beba56b2-1532-4e84-b83f-904fdf5bb3c4","value":3 }}
+{"type":"SENSOR","timestamp":1653450100299,"data":{"msgId":"d32a5181-7951-407a-91f7-814f7b17a007","value":4 }}
+{"type":"SENSOR","timestamp":1653450101299,"data":{"msgId":"1b0adbc4-d0a4-4588-ba62-68cdfa9b8565","value":5 }}
+{"type":"SENSOR","timestamp":1653450102299,"data":{"msgId":"7276a83d-65fa-4a87-89ab-78a90b34d063","value":6 }}
+{"type":"SENSOR","timestamp":1653450103299,"data":{"msgId":"a03eed74-03ef-4add-8c33-5984dc6c5353","value":7 }}
+{"type":"SENSOR","timestamp":1653450104299,"data":{"msgId":"7df91fb5-bf28-4605-b176-78d38e3e80ef","value":8 }}
+{"type":"SENSOR","timestamp":1653450105299,"data":{"msgId":"1a06e84c-9e66-4b45-80d3-5446ca3cb965","value":9 }}
+{"type":"SENSOR","timestamp":1653450106299,"data":{"msgId":"af1db8ad-c43b-4a0c-8ab3-4f91e1f688df","value":10}}
+{"type":"SENSOR","timestamp":1653450107299,"data":{"msgId":"2e4fff60-c728-41cb-b40a-45fef16169aa","value":11}}
+{"type":"SENSOR","timestamp":1653450108299,"data":{"msgId":"ce02edaa-fb99-4480-a5e6-2d5f531dfbcd","value":12}}
+{"type":"SENSOR","timestamp":1653450109299,"data":{"msgId":"aa07a4c7-a401-4556-aded-b67bdd698058","value":13}}
+{"type":"SENSOR","timestamp":1653450110299,"data":{"msgId":"640886e0-8c7a-42a8-88f6-2307a79482e4","value":14}}
+{"type":"SENSOR","timestamp":1653450111299,"data":{"msgId":"8439800a-4703-42e7-bc63-a75680fa4569","value":15}}
+{"type":"SENSOR","timestamp":1653450112299,"data":{"msgId":"11f040c3-9723-4165-af59-bc232795350f","value":16}}
+{"type":"SENSOR","timestamp":1653450113299,"data":{"msgId":"0a8a149b-5ab5-43a1-83d1-101eab6ad0d2","value":17}}
+{"type":"SENSOR","timestamp":1653450114299,"data":{"msgId":"89f9000f-18bc-4cf2-8bb9-320d895beb49","value":18}}
+{"type":"SENSOR","timestamp":1653450115299,"data":{"msgId":"b2c5ed50-d0f2-4558-beb3-7d87b8dba00f","value":19}}
+{"type":"SENSOR","timestamp":1653450116299,"data":{"msgId":"c428a9b9-d1ce-468c-a577-5c52796f262d","value":20}}
+{"type":"SENSOR","timestamp":1653450117299,"data":{"msgId":"d3b13420-a409-4dd0-ac07-f7cbe60cd42e","value":21}}
+{"type":"SENSOR","timestamp":1653450118299,"data":{"msgId":"198336a6-fa53-4fe4-bc95-0717f5ae70b0","value":22}}
+{"type":"SENSOR","timestamp":1653450119299,"data":{"msgId":"f741b39d-b5ac-4f28-8498-22727c301e17","value":23}}
+{"type":"SENSOR","timestamp":1653450120299,"data":{"msgId":"74ea6f53-a478-4794-b339-a455740fd7c9","value":24}}
+{"type":"SENSOR","timestamp":1653450121299,"data":{"msgId":"51e0ce59-52c2-4533-a6ec-2ffdf4639ca6","value":25}}
+{"type":"SENSOR","timestamp":1653450122299,"data":{"msgId":"48ac536a-4d39-4982-ab90-5cec88366737","value":26}}
+{"type":"SENSOR","timestamp":1653450123299,"data":{"msgId":"ba013730-a381-40b6-be5c-e4960f83ff88","value":27}}
+{"type":"SENSOR","timestamp":1653450124299,"data":{"msgId":"06529e2e-7939-4adc-ac3d-8668e202ccac","value":28}}
+{"type":"SENSOR","timestamp":1653450125299,"data":{"msgId":"30a62555-1f80-44f6-a02f-956fffcfa5d2","value":29}}
+{"type":"SENSOR","timestamp":1653450126299,"data":{"msgId":"2c7d08c5-7159-4fa3-9211-2daba962ad88","value":30}}
+{"type":"SENSOR","timestamp":1653450127299,"data":{"msgId":"03dd11b3-d905-4ff0-9f94-61509829b5d0","value":31}}
+{"type":"SENSOR","timestamp":1653450128299,"data":{"msgId":"0ef19414-08a5-49c0-8a75-fcb597fee49c","value":32}}
+{"type":"SENSOR","timestamp":1653450129299,"data":{"msgId":"17a523fe-8ccd-4e91-b55a-136222972670","value":33}}
+{"type":"SENSOR","timestamp":1653450130299,"data":{"msgId":"8095d41b-6b11-45cc-994a-5966b9adf45c","value":34}}
+{"type":"SENSOR","timestamp":1653450131299,"data":{"msgId":"b6aa26b2-1492-4a62-9bd4-e20b9661c4fe","value":35}}
+{"type":"SENSOR","timestamp":1653450132299,"data":{"msgId":"57b7ddd3-44fe-499f-b4f1-8ad67f405c86","value":36}}
+{"type":"SENSOR","timestamp":1653450133299,"data":{"msgId":"c12ae074-e8b7-4dca-934f-5f19cbc556e5","value":37}}
+{"type":"SENSOR","timestamp":1653450134299,"data":{"msgId":"c040a2e9-27ed-4351-b370-dff28ec14edb","value":38}}
+{"type":"SENSOR","timestamp":1653450135299,"data":{"msgId":"a15760b0-4861-4721-86d7-5ee3ae03f916","value":39}}
+{"type":"SENSOR","timestamp":1653450136299,"data":{"msgId":"ad489b78-7662-4ab9-ba97-9954acef3a26","value":40}}
+{"type":"SENSOR","timestamp":1653450137299,"data":{"msgId":"72ef9e65-95e6-4800-b3f2-1e52f3e3b0e9","value":41}}
+{"type":"SENSOR","timestamp":1653450138299,"data":{"msgId":"a7ed9369-50a3-4bcf-b861-575a15475bb2","value":42}}
+{"type":"SENSOR","timestamp":1653450139299,"data":{"msgId":"bc47b264-7dad-42a0-b4e1-926845869438","value":43}}
+{"type":"SENSOR","timestamp":1653450140299,"data":{"msgId":"eac12aac-7696-489a-890a-4c85d455fb6b","value":44}}
+{"type":"SENSOR","timestamp":1653450141299,"data":{"msgId":"643ccd44-023d-4bc2-ba2c-4f6ba106d389","value":45}}
+{"type":"SENSOR","timestamp":1653450142299,"data":{"msgId":"c70b624f-7fa4-4941-b860-182f814b282d","value":46}}
+{"type":"SENSOR","timestamp":1653450143299,"data":{"msgId":"44995ad1-4559-4b56-9f5d-35344feb75f0","value":47}}
+{"type":"SENSOR","timestamp":1653450144299,"data":{"msgId":"dae34119-d76b-481a-ba5e-c3e01ded4cbc","value":48}}
+{"type":"SENSOR","timestamp":1653450145299,"data":{"msgId":"65c230ff-d58c-4e87-bf7f-61277a19ce2f","value":49}}
+{"type":"SENSOR","timestamp":1653450146299,"data":{"msgId":"6918b551-1abb-4a8a-96c7-f5d69c46c718","value":0 }}
+{"type":"SENSOR","timestamp":1653450147299,"data":{"msgId":"66f9b421-96b5-4bdd-92c8-ddc9920b3492","value":1 }}
+{"type":"SENSOR","timestamp":1653450148299,"data":{"msgId":"882d74ab-621d-4391-8353-b292b36a6b1d","value":2 }}
+{"type":"SENSOR","timestamp":1653450149299,"data":{"msgId":"456f8909-3f41-4eff-a559-8240b16dd8e5","value":3 }}
+{"type":"SENSOR","timestamp":1653450150299,"data":{"msgId":"7e460a9f-4599-4161-8810-ac3a872a7644","value":4 }}
+{"type":"SENSOR","timestamp":1653450151299,"data":{"msgId":"75b6b0dc-4ea4-41a0-8eb2-0614bc0332f7","value":5 }}
+{"type":"SENSOR","timestamp":1653450152299,"data":{"msgId":"901cd983-5c62-4b3d-894d-6e2924876068","value":6 }}
+{"type":"SENSOR","timestamp":1653450153299,"data":{"msgId":"70fdcc64-c147-49d2-8b91-762734a6de16","value":7 }}
+{"type":"SENSOR","timestamp":1653450154299,"data":{"msgId":"dbed34d7-537e-4de5-8104-939be34dc6b2","value":8 }}
+{"type":"SENSOR","timestamp":1653450155299,"data":{"msgId":"c2236ef8-74c1-4e97-aa4d-33cd13fdd2ac","value":9 }}
+{"type":"SENSOR","timestamp":1653450156299,"data":{"msgId":"92200678-f4dc-46e2-97ce-1c15ca4113ed","value":10}}
+{"type":"SENSOR","timestamp":1653450157299,"data":{"msgId":"cfd0aeb0-f2c6-4f68-b552-2f9a44865796","value":11}}
+{"type":"SENSOR","timestamp":1653450158299,"data":{"msgId":"4f5a2adc-5bbf-45fe-bb4f-dbe6f1eb140b","value":12}}
+{"type":"SENSOR","timestamp":1653450159299,"data":{"msgId":"114d11b7-05f0-4b9d-9ef4-ab25505d6937","value":13}}
+{"type":"SENSOR","timestamp":1653450160299,"data":{"msgId":"13e3126a-8e80-4836-aee1-e363d1330e5d","value":14}}
+{"type":"SENSOR","timestamp":1653450161299,"data":{"msgId":"b98ee49e-75f7-4ae0-a4c1-e38f28ac31d9","value":15}}
+{"type":"SENSOR","timestamp":1653450162299,"data":{"msgId":"38bc9f0e-a493-4718-a574-9f7c482c7f50","value":16}}
+{"type":"SENSOR","timestamp":1653450163299,"data":{"msgId":"76a21b40-1bfa-4696-b9f3-4c0ed54fb8d2","value":17}}
+{"type":"SENSOR","timestamp":1653450164299,"data":{"msgId":"a73fd9be-7cc4-495b-8c17-6ab05e9647b7","value":18}}
+{"type":"SENSOR","timestamp":1653450165299,"data":{"msgId":"30682c6e-c976-47c8-bce0-3d90cc2fc5be","value":19}}
+{"type":"SENSOR","timestamp":1653450166299,"data":{"msgId":"2fd6393e-e318-453d-baa9-69773cf3349a","value":20}}
+{"type":"SENSOR","timestamp":1653450167299,"data":{"msgId":"94b43705-e89c-462e-abf1-db2527f636b5","value":21}}
+{"type":"SENSOR","timestamp":1653450168299,"data":{"msgId":"0d38a072-ee04-4352-b1e5-918f4f7eb568","value":22}}
+{"type":"SENSOR","timestamp":1653450169299,"data":{"msgId":"7242fdd3-ec29-42ce-bf8b-47b1b28d5445","value":23}}
+{"type":"SENSOR","timestamp":1653450170299,"data":{"msgId":"e3c5e9f9-8049-40ac-b4b8-a131673ea5d9","value":24}}
+{"type":"SENSOR","timestamp":1653450171299,"data":{"msgId":"63e21590-dff4-4471-afd4-30ffc1e12d1e","value":25}}
+{"type":"SENSOR","timestamp":1653450172299,"data":{"msgId":"c8c474ab-ed70-4670-802a-6c6ec3a0fdae","value":26}}
+{"type":"SENSOR","timestamp":1653450173299,"data":{"msgId":"cf5e91fa-fc18-414b-b874-73046895c85b","value":27}}
+{"type":"SENSOR","timestamp":1653450174299,"data":{"msgId":"b5a9e63d-3d77-4f24-a867-7db2ef724864","value":28}}
+{"type":"SENSOR","timestamp":1653450175299,"data":{"msgId":"29ad0714-d9b3-47be-aa0a-f8b9c846b1a0","value":29}}
+{"type":"SENSOR","timestamp":1653450176299,"data":{"msgId":"106460a8-56b3-4d6b-b65e-0b3f90dbf74f","value":30}}
+{"type":"SENSOR","timestamp":1653450177299,"data":{"msgId":"6a48e097-9d74-412b-b13a-b84ef0224a63","value":31}}
+{"type":"SENSOR","timestamp":1653450178299,"data":{"msgId":"3db551d3-f403-4012-aa03-8af85271f790","value":32}}
+{"type":"SENSOR","timestamp":1653450179299,"data":{"msgId":"6a5a3ab9-0dd7-49b7-8c6a-55e188145166","value":33}}
+{"type":"SENSOR","timestamp":1653450180299,"data":{"msgId":"4ba37a81-ff12-4da6-a3c7-f0fb2f929278","value":34}}
+{"type":"SENSOR","timestamp":1653450181299,"data":{"msgId":"69847cb5-e63b-434c-9f64-16b2ee88d02d","value":35}}
+{"type":"SENSOR","timestamp":1653450182299,"data":{"msgId":"1f3d1bbb-2a2d-4820-bec0-a72ab13a264d","value":36}}
+{"type":"SENSOR","timestamp":1653450183299,"data":{"msgId":"7d38dd6e-aedc-4591-80a8-67ffd59f6404","value":37}}
+{"type":"SENSOR","timestamp":1653450184299,"data":{"msgId":"93dcbfd1-fabf-4e5e-bc4b-46bd16216e3b","value":38}}
+{"type":"SENSOR","timestamp":1653450185299,"data":{"msgId":"c5fc41e9-c55c-4f11-b700-b6c790dbdb16","value":39}}
+{"type":"SENSOR","timestamp":1653450186299,"data":{"msgId":"88010f29-afea-478f-9eea-050d165cebd9","value":40}}
+{"type":"SENSOR","timestamp":1653450187299,"data":{"msgId":"ad792131-5e1b-4a0b-9c3d-5b68e3e76564","value":41}}
+{"type":"SENSOR","timestamp":1653450188299,"data":{"msgId":"05a496d5-8a8d-4267-9264-a909c6b6f108","value":42}}
+{"type":"SENSOR","timestamp":1653450189299,"data":{"msgId":"08cb0f71-b739-4fc8-b626-0409e8e5e433","value":43}}
+{"type":"SENSOR","timestamp":1653450190299,"data":{"msgId":"87de84df-6d9f-46e1-88ee-84de58053412","value":44}}
+{"type":"SENSOR","timestamp":1653450191299,"data":{"msgId":"d2e85979-30de-4e1a-9da2-de236fd07900","value":45}}
+{"type":"SENSOR","timestamp":1653450192299,"data":{"msgId":"48e8d863-3849-44db-9967-1a01c93dd4c5","value":46}}
+{"type":"SENSOR","timestamp":1653450193299,"data":{"msgId":"75c7ed79-a3f6-4e6e-ae96-0d7f4fcc4fcb","value":47}}
+{"type":"SENSOR","timestamp":1653450194299,"data":{"msgId":"1aec6201-d6f0-4f95-8646-2179506837de","value":48}}
+{"type":"SENSOR","timestamp":1653450195299,"data":{"msgId":"43e336e3-7f9b-439f-a1ec-bd011afa7334","value":49}}
+{"type":"SENSOR","timestamp":1653450196299,"data":{"msgId":"e39b7136-5a1a-4573-b9c7-72945e535261","value":0 }}
+{"type":"SENSOR","timestamp":1653450197301,"data":{"msgId":"7f9ed112-1919-46be-9b43-b5b16a519672","value":1 }}
+{"type":"SENSOR","timestamp":1653450198299,"data":{"msgId":"0030eea8-d280-4ba2-88a6-910cc54abfc2","value":2 }}
+{"type":"SENSOR","timestamp":1653450199299,"data":{"msgId":"19307444-01ff-4f25-afca-cf9da023a403","value":3 }}
+{"type":"SENSOR","timestamp":1653450200299,"data":{"msgId":"9faf9780-84c2-4e58-a351-8df6a80102d8","value":4 }}
+{"type":"SENSOR","timestamp":1653450201299,"data":{"msgId":"1b0712c1-865a-470f-aaf2-44d0a985298d","value":5 }}
+{"type":"SENSOR","timestamp":1653450202299,"data":{"msgId":"39fc77da-1fd1-4406-adfb-6995955d57ca","value":6 }}
+{"type":"SENSOR","timestamp":1653450203299,"data":{"msgId":"99282470-3bcc-45fb-877f-c28d969ea78e","value":7 }}
+{"type":"SENSOR","timestamp":1653450204299,"data":{"msgId":"0800faee-11bc-451f-8789-a54213ec5f37","value":8 }}
+{"type":"SENSOR","timestamp":1653450205299,"data":{"msgId":"31b063fa-d7ae-41b3-a0dc-58a909ea6b09","value":9 }}
+{"type":"SENSOR","timestamp":1653450206299,"data":{"msgId":"cc613360-a00d-43b5-97e0-2a00037e40cd","value":10}}
+{"type":"SENSOR","timestamp":1653450207299,"data":{"msgId":"99b35534-682c-43b2-a1ba-b1d437e528fa","value":11}}
+{"type":"SENSOR","timestamp":1653450208299,"data":{"msgId":"6216e4f9-4d3e-4905-9131-3231b4645d71","value":12}}
+{"type":"SENSOR","timestamp":1653450209299,"data":{"msgId":"357641ad-c64f-45b8-a91e-3097f32a6586","value":13}}
+{"type":"SENSOR","timestamp":1653450210299,"data":{"msgId":"7572df29-795f-4646-a183-8e23a7c3367d","value":14}}
+{"type":"SENSOR","timestamp":1653450211299,"data":{"msgId":"17039f5f-0f05-4f31-835a-873592a795d5","value":15}}
+{"type":"SENSOR","timestamp":1653450212299,"data":{"msgId":"504d2bfb-f2b6-4c26-b2a6-278e436ad60b","value":16}}
+{"type":"SENSOR","timestamp":1653450213299,"data":{"msgId":"ceca850c-d6e7-4185-888e-dc1652300220","value":17}}
+{"type":"SENSOR","timestamp":1653450214299,"data":{"msgId":"1d4f6e62-2469-49dc-b840-728abaca4328","value":18}}
+{"type":"SENSOR","timestamp":1653450215299,"data":{"msgId":"e07c7ce8-4ea4-44a7-baa3-5c55a42e79cf","value":19}}
+{"type":"SENSOR","timestamp":1653450216299,"data":{"msgId":"ddbd2931-93df-43e9-9b9f-f8d8f9d74fc1","value":20}}
+{"type":"SENSOR","timestamp":1653450217299,"data":{"msgId":"812e64b0-2a74-4c20-ad53-04ea789baa1e","value":21}}
+{"type":"SENSOR","timestamp":1653450218299,"data":{"msgId":"dbed3ef1-e0d6-4a6c-be97-572cfe40219e","value":22}}
+{"type":"SENSOR","timestamp":1653450219299,"data":{"msgId":"8f727adb-effd-4884-a795-23c3476a60c5","value":23}}
+{"type":"SENSOR","timestamp":1653450220299,"data":{"msgId":"3dc3ab35-d2d3-4b03-a7c3-5fa06180bbcc","value":24}}
+{"type":"SENSOR","timestamp":1653450221299,"data":{"msgId":"a46b4e18-7376-49c2-bc12-bda0caf7ff8d","value":25}}
+{"type":"SENSOR","timestamp":1653450222299,"data":{"msgId":"0a0cccaa-1d7e-4e7d-bb8a-b3088f210b44","value":26}}
+{"type":"SENSOR","timestamp":1653450223299,"data":{"msgId":"4c222526-332d-4d35-814c-d248c4c4aa4c","value":27}}
+{"type":"SENSOR","timestamp":1653450224299,"data":{"msgId":"04f402c8-f0a5-41b3-99ea-89d21f8c56a8","value":28}}
+{"type":"SENSOR","timestamp":1653450225299,"data":{"msgId":"e11c5680-ffac-4052-a539-f39a9b2c4b3c","value":29}}
+{"type":"SENSOR","timestamp":1653450226299,"data":{"msgId":"7fd5feba-6595-4a26-9ea0-16abffeedbc6","value":30}}
+{"type":"SENSOR","timestamp":1653450227299,"data":{"msgId":"86cdf7b9-b444-450f-806a-eb90f678c496","value":31}}
+{"type":"SENSOR","timestamp":1653450228299,"data":{"msgId":"43edffcd-845b-49e7-896f-6ed92ce260ac","value":32}}
+{"type":"SENSOR","timestamp":1653450229299,"data":{"msgId":"e53fed34-8730-409d-92f9-58d854657d2b","value":33}}
+{"type":"SENSOR","timestamp":1653450230299,"data":{"msgId":"d71dcb3b-226f-4fec-8605-70dc5cdade94","value":34}}
+{"type":"SENSOR","timestamp":1653450231299,"data":{"msgId":"c6075e88-8823-4fcf-99a4-dc0eb7d105ed","value":35}}
+{"type":"SENSOR","timestamp":1653450232299,"data":{"msgId":"76341da0-7161-4a01-b99c-24bc7ab228f7","value":36}}
+{"type":"SENSOR","timestamp":1653450233299,"data":{"msgId":"62c2c85f-4620-467f-93cb-8bbceae4ca83","value":37}}
+{"type":"SENSOR","timestamp":1653450234299,"data":{"msgId":"40b3890e-13a8-42e4-b648-dbaf0587232f","value":38}}
+{"type":"SENSOR","timestamp":1653450235299,"data":{"msgId":"c116de50-79e9-462f-9194-10a72c013bf8","value":39}}
+{"type":"SENSOR","timestamp":1653450236299,"data":{"msgId":"bdf1341c-e574-4524-91e4-5daaca65bbb7","value":40}}
+{"type":"SENSOR","timestamp":1653450237299,"data":{"msgId":"eb997e9a-12f5-42eb-9efe-1f5d87b63170","value":41}}
+{"type":"SENSOR","timestamp":1653450238299,"data":{"msgId":"6b19362a-2bb5-4f28-a956-af73de4e216e","value":42}}
+{"type":"SENSOR","timestamp":1653450239299,"data":{"msgId":"d9870db6-4cb8-4e67-8eb8-7247b426774b","value":43}}
+{"type":"SENSOR","timestamp":1653450240299,"data":{"msgId":"3d8d9b24-b0be-43f7-a610-ff24b82e9e0c","value":44}}
+{"type":"SENSOR","timestamp":1653450241299,"data":{"msgId":"61309813-e62b-43a3-8783-3f466e35bf76","value":45}}
+{"type":"SENSOR","timestamp":1653450242299,"data":{"msgId":"fbf19e55-e578-4438-ab65-257fcf51c5d7","value":46}}
+{"type":"SENSOR","timestamp":1653450243299,"data":{"msgId":"ff636016-e7ef-4cfd-a8c4-f413e825f9c2","value":47}}
+{"type":"SENSOR","timestamp":1653450244299,"data":{"msgId":"169ef7ac-dc7a-449d-a4fe-c83ac2842dbd","value":48}}
+{"type":"SENSOR","timestamp":1653450245299,"data":{"msgId":"445f7311-0705-4a00-aea2-f3516d05433c","value":49}}
+{"type":"SENSOR","timestamp":1653450246299,"data":{"msgId":"fc31829b-f68f-482d-83ed-c4b55128e26c","value":0 }}
+{"type":"SENSOR","timestamp":1653450247299,"data":{"msgId":"1f902c4f-a916-4b10-9d8d-bb7d4b9f8125","value":1 }}
+{"type":"SENSOR","timestamp":1653450248299,"data":{"msgId":"d08bca7b-0664-4c90-a6e9-142f663e5b80","value":2 }}
+{"type":"SENSOR","timestamp":1653450249299,"data":{"msgId":"bb395cd4-28c1-440e-b643-1c0c87cdbd6a","value":3 }}
+{"type":"SENSOR","timestamp":1653450250299,"data":{"msgId":"aa2b633a-8fc3-4c06-a24e-86ffade10bc1","value":4 }}
+{"type":"SENSOR","timestamp":1653450251299,"data":{"msgId":"cb52797c-4e32-434f-a02f-b2112dbc9139","value":5 }}
+{"type":"SENSOR","timestamp":1653450252299,"data":{"msgId":"07a1a191-8a0d-4119-a3ce-b57b9dfab84b","value":6 }}
+{"type":"SENSOR","timestamp":1653450253299,"data":{"msgId":"925c35c2-448c-42e1-abb1-2f6915a8685e","value":7 }}
+{"type":"SENSOR","timestamp":1653450254299,"data":{"msgId":"462ec7fc-bcbb-42af-8580-18bf235b2f63","value":8 }}
+{"type":"SENSOR","timestamp":1653450255299,"data":{"msgId":"74b8dc80-be2a-4e90-8dcb-8ffcf15c7e60","value":9 }}
+{"type":"SENSOR","timestamp":1653450256299,"data":{"msgId":"49a1b9ca-115e-4301-9164-e660bb1cb6d3","value":10}}
+{"type":"SENSOR","timestamp":1653450257299,"data":{"msgId":"1f99e0a3-ca35-4368-ad79-9cce789b1ec3","value":11}}
+{"type":"SENSOR","timestamp":1653450258299,"data":{"msgId":"1924b646-ea75-4fdf-b9c7-ed5b38e9de92","value":12}}
+{"type":"SENSOR","timestamp":1653450259299,"data":{"msgId":"2a2d4a50-d18d-4513-b885-838bed910337","value":13}}
+{"type":"SENSOR","timestamp":1653450260299,"data":{"msgId":"e03796f5-846d-4e15-b695-64c282d8203a","value":14}}
+{"type":"SENSOR","timestamp":1653450261299,"data":{"msgId":"423476ff-468a-4874-af25-fdb8e9be2d2c","value":15}}
+{"type":"SENSOR","timestamp":1653450262299,"data":{"msgId":"9ce08ba6-0c87-472e-9613-8f7c730ca3cb","value":16}}
+{"type":"SENSOR","timestamp":1653450263299,"data":{"msgId":"4a0d9dcf-8151-44a8-b42f-e820ef8e143c","value":17}}
+{"type":"SENSOR","timestamp":1653450264300,"data":{"msgId":"222e09ac-39af-4e0f-9f05-dd1323085747","value":18}}
+{"type":"SENSOR","timestamp":1653450265299,"data":{"msgId":"adcc1520-85e5-4511-809a-22603d51ff4d","value":19}}
+{"type":"SENSOR","timestamp":1653450266299,"data":{"msgId":"283d6638-5136-4947-8dfb-0a1e3402b9ae","value":20}}
+{"type":"SENSOR","timestamp":1653450267299,"data":{"msgId":"056d3156-55a8-481f-966f-5d0e88d677d9","value":21}}
+{"type":"SENSOR","timestamp":1653450268299,"data":{"msgId":"e11e9697-85dc-46a7-8d0a-75a66adba47a","value":22}}
+{"type":"SENSOR","timestamp":1653450269299,"data":{"msgId":"96fd8d34-a7c6-4c4b-b177-73eef894c4a8","value":23}}
+{"type":"SENSOR","timestamp":1653450270299,"data":{"msgId":"4aea21d5-397f-4aa7-b1d3-c31530b78911","value":24}}
+{"type":"SENSOR","timestamp":1653450271299,"data":{"msgId":"287041bc-1fc7-4aee-b9aa-9eaba615a674","value":25}}
+{"type":"SENSOR","timestamp":1653450272299,"data":{"msgId":"b828f44e-ad56-4aa7-84c3-24dd9915ce78","value":26}}
+{"type":"SENSOR","timestamp":1653450273299,"data":{"msgId":"2e8d11d3-ff65-422e-b6c0-b36dbe6d09a1","value":27}}
+{"type":"SENSOR","timestamp":1653450274299,"data":{"msgId":"a1feb523-5323-4e05-8118-8799e31b7146","value":28}}
+{"type":"SENSOR","timestamp":1653450275299,"data":{"msgId":"9552e73a-2b90-4c48-bbda-7b64f298e5d6","value":29}}
+{"type":"SENSOR","timestamp":1653450276299,"data":{"msgId":"d7bc65c6-dc2a-4474-b909-b8674d6c8305","value":30}}
+{"type":"SENSOR","timestamp":1653450277299,"data":{"msgId":"3724d829-1eee-41a7-b38a-96afb8a2b9d8","value":31}}
+{"type":"SENSOR","timestamp":1653450278299,"data":{"msgId":"748ccccd-ec3c-4575-acf0-bc517abf0ba3","value":32}}
+{"type":"SENSOR","timestamp":1653450279299,"data":{"msgId":"6482c5e9-13e9-4182-9a8a-d5edcbfc768c","value":33}}
+{"type":"SENSOR","timestamp":1653450280299,"data":{"msgId":"a0d657d0-7806-469b-821d-852ad042e43c","value":34}}
+{"type":"SENSOR","timestamp":1653450281299,"data":{"msgId":"3d86d893-ddc3-4712-ab6a-1d12630801fc","value":35}}
+{"type":"SENSOR","timestamp":1653450282299,"data":{"msgId":"56d33c03-b3be-489c-a019-660b2eeb2569","value":36}}
+{"type":"SENSOR","timestamp":1653450283299,"data":{"msgId":"4ded0255-a4ae-4c79-a5d0-f23d943d4c89","value":37}}
+{"type":"SENSOR","timestamp":1653450284299,"data":{"msgId":"ca8e4bf6-ce5b-48d6-844f-545335598243","value":38}}
+{"type":"SENSOR","timestamp":1653450285299,"data":{"msgId":"1d99c47c-56d0-4358-9fba-11a14b0021ca","value":39}}
+{"type":"SENSOR","timestamp":1653450286299,"data":{"msgId":"2d2c6ce2-9ace-457c-b8c3-6a572c38856a","value":40}}
+{"type":"SENSOR","timestamp":1653450287299,"data":{"msgId":"cd3c29c0-37a8-4216-b703-fef1072417f1","value":41}}
+{"type":"SENSOR","timestamp":1653450288299,"data":{"msgId":"3a98e44d-c4fb-4eb8-b457-e81b05abcc87","value":42}}
+{"type":"SENSOR","timestamp":1653450289299,"data":{"msgId":"ef84bfd7-135e-4ff9-a0f9-995cb412402d","value":43}}
+{"type":"SENSOR","timestamp":1653450290299,"data":{"msgId":"d858b16f-00a7-4a6b-8126-2b4960a54de4","value":44}}
+{"type":"SENSOR","timestamp":1653450291299,"data":{"msgId":"44453754-af58-4a9c-9ae0-748b63593a1b","value":45}}
+{"type":"SENSOR","timestamp":1653450292299,"data":{"msgId":"25e0dd8f-108b-4244-a5a0-578d9243bb5b","value":46}}
+{"type":"SENSOR","timestamp":1653450293299,"data":{"msgId":"ae7b3867-94cb-4c5b-9898-37c9eced613a","value":47}}
+{"type":"SENSOR","timestamp":1653450294299,"data":{"msgId":"26f6a134-5e83-4a32-a876-795995531fa5","value":48}}
+{"type":"SENSOR","timestamp":1653450295299,"data":{"msgId":"780e9351-3a6a-4a06-8082-cd5288297d20","value":49}}
+{"type":"SENSOR","timestamp":1653450296299,"data":{"msgId":"94dd996f-65b7-4651-8fe7-ac5b9e4300ef","value":0 }}
+{"type":"SENSOR","timestamp":1653450297299,"data":{"msgId":"124d339e-f6fc-475e-8cd2-f223715f3adb","value":1 }}
+{"type":"SENSOR","timestamp":1653450298299,"data":{"msgId":"a667c58a-b8ee-4211-8fcc-8e085d2a98e0","value":2 }}
+{"type":"SENSOR","timestamp":1653450299299,"data":{"msgId":"6d7d1273-4983-456a-8d7f-6ad35d9e1da5","value":3 }}
+{"type":"SENSOR","timestamp":1653450300299,"data":{"msgId":"1527c53a-60cc-448d-929f-3f1188bc90af","value":4 }}
+{"type":"SENSOR","timestamp":1653450301299,"data":{"msgId":"d2eec625-ae44-4ad6-aa19-18c45661e276","value":5 }}
+{"type":"SENSOR","timestamp":1653450302299,"data":{"msgId":"0b12c87f-2d55-4230-a19f-20624b2aaec2","value":6 }}
+{"type":"SENSOR","timestamp":1653450303299,"data":{"msgId":"43d797b5-3694-4304-b36d-463b3060c469","value":7 }}
+{"type":"SENSOR","timestamp":1653450304299,"data":{"msgId":"ae99e6e3-108b-4269-8a89-076e386396f5","value":8 }}
+{"type":"SENSOR","timestamp":1653450305299,"data":{"msgId":"ec731fcc-8cd2-406d-9c5a-ebd20a7d1b5a","value":9 }}
+{"type":"SENSOR","timestamp":1653450306299,"data":{"msgId":"ebbe6d9c-d318-4b8d-b482-b457a08194ec","value":10}}
+{"type":"SENSOR","timestamp":1653450307299,"data":{"msgId":"9298144a-d984-4bcf-8fb0-5cb558de8059","value":11}}
+{"type":"SENSOR","timestamp":1653450308299,"data":{"msgId":"b929a1d4-2d0b-4580-a883-06e0e901797f","value":12}}
+{"type":"SENSOR","timestamp":1653450309299,"data":{"msgId":"a407a2f6-9690-4c3e-999f-8d33315e52fe","value":13}}
+{"type":"SENSOR","timestamp":1653450310299,"data":{"msgId":"2ab58eb3-d69f-4e8a-bc6b-e2d8ae50b0db","value":14}}
+{"type":"SENSOR","timestamp":1653450311299,"data":{"msgId":"047e6356-ceb3-4698-84a3-c9c68cea16de","value":15}}
+{"type":"SENSOR","timestamp":1653450312299,"data":{"msgId":"a0612206-8696-4697-b7ba-7ae3d2398e05","value":16}}
+{"type":"SENSOR","timestamp":1653450313299,"data":{"msgId":"8cce9a46-3290-41c1-b2c4-19e54d76bf1f","value":17}}
+{"type":"SENSOR","timestamp":1653450314299,"data":{"msgId":"48fafe59-a18a-40ba-b63a-ecc47f12e529","value":18}}
+{"type":"SENSOR","timestamp":1653450315299,"data":{"msgId":"5762a2a7-68ae-4c98-93be-56f8a034bb9a","value":19}}
+{"type":"SENSOR","timestamp":1653450316299,"data":{"msgId":"c69cdb3c-9397-47c2-b747-446e92a4ebd3","value":20}}
+{"type":"SENSOR","timestamp":1653450317299,"data":{"msgId":"92419de9-5498-4426-b900-3163784d0bd3","value":21}}
+{"type":"SENSOR","timestamp":1653450318299,"data":{"msgId":"1e692350-f074-4dba-93b0-7399dbb8cc30","value":22}}
+{"type":"SENSOR","timestamp":1653450319299,"data":{"msgId":"f0978056-511b-438e-9657-2ef1e0c19e64","value":23}}
+{"type":"SENSOR","timestamp":1653450320299,"data":{"msgId":"d5bb6f26-9f99-41f5-a5fd-07053122820d","value":24}}
+{"type":"SENSOR","timestamp":1653450321299,"data":{"msgId":"1b6f22ea-43c3-4dcf-a317-eb6050974b21","value":25}}
+{"type":"SENSOR","timestamp":1653450322299,"data":{"msgId":"2c0f06ad-97d2-4eb6-8a4d-684dbf6879f0","value":26}}
+{"type":"SENSOR","timestamp":1653450323299,"data":{"msgId":"83896da0-88c8-4f64-b58b-a2971faa65ef","value":27}}
+{"type":"SENSOR","timestamp":1653450324299,"data":{"msgId":"ce55c402-880e-44a6-84d9-d2e04e4657a2","value":28}}
+{"type":"SENSOR","timestamp":1653450325299,"data":{"msgId":"7a6247e2-8f29-4243-93d4-c704146a1350","value":29}}
+{"type":"SENSOR","timestamp":1653450326299,"data":{"msgId":"5903f5e1-0dfc-4704-862c-cc7222b03501","value":30}}
+{"type":"SENSOR","timestamp":1653450327299,"data":{"msgId":"84771bb7-393c-48dc-8690-3ec27cb72744","value":31}}
+{"type":"SENSOR","timestamp":1653450328299,"data":{"msgId":"6df85e18-d0ae-4924-84c1-d1b9ee1036f2","value":32}}
+{"type":"SENSOR","timestamp":1653450329299,"data":{"msgId":"86b0687f-a61f-4d09-9114-a3f6133954ea","value":33}}
+{"type":"SENSOR","timestamp":1653450330299,"data":{"msgId":"43a4afcd-0dd2-4e91-94fe-731522f6ca96","value":34}}
+{"type":"SENSOR","timestamp":1653450331299,"data":{"msgId":"2140eb5a-7f61-4a80-84a4-fd38f34ed6fa","value":35}}
+{"type":"SENSOR","timestamp":1653450332299,"data":{"msgId":"2ebca7f4-922d-494f-ac4d-bcd714d3c24a","value":36}}
+{"type":"SENSOR","timestamp":1653450333299,"data":{"msgId":"8ef59865-a7f9-48bc-a020-e0f679f05465","value":37}}
+{"type":"SENSOR","timestamp":1653450334299,"data":{"msgId":"42ea01a0-ebc2-4468-9247-3a1f606ba1cc","value":38}}
+{"type":"SENSOR","timestamp":1653450335299,"data":{"msgId":"5ca81e24-3330-46a5-91b4-57e6d4be2b0b","value":39}}
+{"type":"SENSOR","timestamp":1653450336299,"data":{"msgId":"9024e639-cadf-488d-8b41-6bb341ae8786","value":40}}
+{"type":"SENSOR","timestamp":1653450337299,"data":{"msgId":"29941ee6-2cd6-4978-9821-d9433b330a7c","value":41}}
+{"type":"SENSOR","timestamp":1653450338299,"data":{"msgId":"f3a53df2-1548-48f0-9877-8e51ea10f0fd","value":42}}
+{"type":"SENSOR","timestamp":1653450339299,"data":{"msgId":"1582f2f2-a27f-4784-b85d-2e7a9ecec273","value":43}}
+{"type":"SENSOR","timestamp":1653450340299,"data":{"msgId":"b8e36311-628b-456f-bef1-94ed275a57b3","value":44}}
+{"type":"SENSOR","timestamp":1653450341299,"data":{"msgId":"42a6c63f-cda0-41ca-8ee4-621e554e9e7b","value":45}}
+{"type":"SENSOR","timestamp":1653450342299,"data":{"msgId":"a29d6c02-830e-400d-bef5-9640bd7deed6","value":46}}
+{"type":"SENSOR","timestamp":1653450343299,"data":{"msgId":"57a01237-b6dc-457c-b1f4-e70bef998c18","value":47}}
+{"type":"SENSOR","timestamp":1653450344299,"data":{"msgId":"912a323f-f718-4250-8120-12a1c2da9314","value":48}}
+{"type":"SENSOR","timestamp":1653450345299,"data":{"msgId":"39e68e0d-ede0-47cf-b5a1-8c3e5393a936","value":49}}
+{"type":"SENSOR","timestamp":1653450346299,"data":{"msgId":"98d80da6-e8e2-4e85-ba72-eb55711c9938","value":0 }}
+{"type":"SENSOR","timestamp":1653450347299,"data":{"msgId":"65a213a2-bd76-4e0d-b954-a804130a47ed","value":1 }}
+{"type":"SENSOR","timestamp":1653450348299,"data":{"msgId":"8364610c-53e4-48cf-9170-3a61700f9480","value":2 }}
+{"type":"SENSOR","timestamp":1653450349299,"data":{"msgId":"2a401b3e-e36e-4b00-992b-2cdbec13fe86","value":3 }}
+{"type":"SENSOR","timestamp":1653450350299,"data":{"msgId":"7a9b7c15-28d4-42ee-b72e-254c6cef8639","value":4 }}
+{"type":"SENSOR","timestamp":1653450351299,"data":{"msgId":"71cf2956-53f6-4b0d-8a1e-3e9548cc3237","value":5 }}
+{"type":"SENSOR","timestamp":1653450352299,"data":{"msgId":"cb75a51b-14e5-4bb7-9f94-ebfe8f6980fb","value":6 }}
+{"type":"SENSOR","timestamp":1653450353299,"data":{"msgId":"32075e92-020b-457d-85c3-15eff629c3bf","value":7 }}
+{"type":"SENSOR","timestamp":1653450354299,"data":{"msgId":"fdcf5cda-e661-4e84-8e0c-e4b284111bc3","value":8 }}
+{"type":"SENSOR","timestamp":1653450355299,"data":{"msgId":"57f644fb-22ba-45b5-b1da-e003a616bd21","value":9 }}
+{"type":"SENSOR","timestamp":1653450356299,"data":{"msgId":"2de3ca20-94d4-4594-a4df-670b9522c298","value":10}}
+{"type":"SENSOR","timestamp":1653450357299,"data":{"msgId":"9539da02-4fa9-4785-9184-acb7a180cf8a","value":11}}
+{"type":"SENSOR","timestamp":1653450358299,"data":{"msgId":"0d62659c-b719-4ee5-836a-0c24f30afaf8","value":12}}
+{"type":"SENSOR","timestamp":1653450359299,"data":{"msgId":"07e1979f-e605-41f6-b3f7-0ff311d67502","value":13}}
+{"type":"SENSOR","timestamp":1653450360299,"data":{"msgId":"f424d9bb-bd45-42b1-ab16-bafcb93b492f","value":14}}
+{"type":"SENSOR","timestamp":1653450361299,"data":{"msgId":"0cf2076e-426d-44f0-a9f3-44921d6b93ba","value":15}}
+{"type":"SENSOR","timestamp":1653450362299,"data":{"msgId":"a64bd650-4d59-4176-a221-dcea7846ce30","value":16}}
+{"type":"SENSOR","timestamp":1653450363299,"data":{"msgId":"ee61b1ba-0a65-4a4e-85c8-7091dc9616e0","value":17}}
+{"type":"SENSOR","timestamp":1653450364299,"data":{"msgId":"9a1b8745-5f73-4114-9850-275b47eafa96","value":18}}
+{"type":"SENSOR","timestamp":1653450365299,"data":{"msgId":"0a517589-edfc-482e-80f5-559b8a97e211","value":19}}
+{"type":"SENSOR","timestamp":1653450366299,"data":{"msgId":"4bef3175-b4a6-430c-bf97-0075bcca164f","value":20}}
+{"type":"SENSOR","timestamp":1653450367299,"data":{"msgId":"d4b81543-4c2b-4155-b5df-7f2d2d804424","value":21}}
+{"type":"SENSOR","timestamp":1653450368299,"data":{"msgId":"a4b08c3e-9c0b-433a-bd9d-a3a75add9e4e","value":22}}
+{"type":"SENSOR","timestamp":1653450369299,"data":{"msgId":"272b7d6f-e7a5-4f64-b842-b4f3661c7341","value":23}}
+{"type":"SENSOR","timestamp":1653450370299,"data":{"msgId":"e7cb4ad1-dd98-4db0-86fc-66a6274589e4","value":24}}
+{"type":"SENSOR","timestamp":1653450371299,"data":{"msgId":"52b03a60-5054-4b55-960c-345e97793c66","value":25}}
+{"type":"SENSOR","timestamp":1653450372299,"data":{"msgId":"d10a3093-7b8d-4f00-ad53-1455e42dfb1d","value":26}}
+{"type":"SENSOR","timestamp":1653450373299,"data":{"msgId":"acc0819a-baaa-42d3-83aa-e991e5d91e60","value":27}}
+{"type":"SENSOR","timestamp":1653450374299,"data":{"msgId":"d6809c01-06ea-4a86-8693-89cef86a8957","value":28}}
+{"type":"SENSOR","timestamp":1653450375299,"data":{"msgId":"d16c1a4e-d4db-415d-a93c-888730faef8c","value":29}}
+{"type":"SENSOR","timestamp":1653450376299,"data":{"msgId":"2fa7effe-aac1-413d-ba43-811089cf88bb","value":30}}
+{"type":"SENSOR","timestamp":1653450377299,"data":{"msgId":"30cf26dd-b960-45a2-a8bb-36b852963233","value":31}}
+{"type":"SENSOR","timestamp":1653450378299,"data":{"msgId":"3ed6cd7e-113c-42b5-b3d6-67088aef445d","value":32}}
+{"type":"SENSOR","timestamp":1653450379299,"data":{"msgId":"2bdc09ae-18e7-4735-853a-d8e5826bf0f1","value":33}}
+{"type":"SENSOR","timestamp":1653450380299,"data":{"msgId":"50108644-00fb-4fc0-9f4a-11c0d3db556a","value":34}}
+{"type":"SENSOR","timestamp":1653450381299,"data":{"msgId":"d80e0dff-ecaf-4869-9792-c1e1b9cecdb0","value":35}}
+{"type":"SENSOR","timestamp":1653450382299,"data":{"msgId":"eb67f512-6137-4830-bcaf-139f2057780b","value":36}}
+{"type":"SENSOR","timestamp":1653450383299,"data":{"msgId":"e80e7dc0-1d24-4219-abe4-ac0f3172b853","value":37}}
+{"type":"SENSOR","timestamp":1653450384299,"data":{"msgId":"56ba5ff2-5da6-45d4-ab5c-77cad70fd16b","value":38}}
+{"type":"SENSOR","timestamp":1653450385299,"data":{"msgId":"dd34f483-ce0d-4512-967f-de263b2e59ff","value":39}}
+{"type":"SENSOR","timestamp":1653450386299,"data":{"msgId":"ca38ffaa-7234-4b46-bd3d-a95654144361","value":40}}
+{"type":"SENSOR","timestamp":1653450387299,"data":{"msgId":"c8f599c8-0d26-4fb5-a9f6-fde2a92805f0","value":41}}
+{"type":"SENSOR","timestamp":1653450388299,"data":{"msgId":"0c67b4fb-943b-4066-a24e-2e46280551af","value":42}}
+{"type":"SENSOR","timestamp":1653450389299,"data":{"msgId":"cdf44e47-d490-4665-b3a0-aa05a849096d","value":43}}
+{"type":"SENSOR","timestamp":1653450390299,"data":{"msgId":"320eceeb-7e86-4629-9829-987be35c2279","value":44}}
+{"type":"SENSOR","timestamp":1653450391299,"data":{"msgId":"3dea5f43-3230-4c0f-8d1c-7052ae83ee70","value":45}}
+{"type":"SENSOR","timestamp":1653450392299,"data":{"msgId":"2cbe43a2-8391-457f-947f-9c9e87476ecb","value":46}}
+{"type":"SENSOR","timestamp":1653450393299,"data":{"msgId":"4f325139-5bf4-4e13-9f16-5ec8db02486f","value":47}}
+{"type":"SENSOR","timestamp":1653450394299,"data":{"msgId":"511243a9-320f-47a2-b88d-a192ea5da1fb","value":48}}
+{"type":"SENSOR","timestamp":1653450395299,"data":{"msgId":"6636d107-aa09-4986-bb90-94d0fabdd0ab","value":49}}
+{"type":"SENSOR","timestamp":1653450396299,"data":{"msgId":"8a32db7d-edc3-4130-a6ee-f921c9a0ccd6","value":0 }}
+{"type":"SENSOR","timestamp":1653450397299,"data":{"msgId":"29f45e80-17a2-45ba-adcd-696745b3f046","value":1 }}
+{"type":"SENSOR","timestamp":1653450398299,"data":{"msgId":"d8da2cf0-63e6-4b01-b2b1-83ef70295ac9","value":2 }}
+{"type":"SENSOR","timestamp":1653450399299,"data":{"msgId":"d8d67e75-334f-49d0-bc03-b4eae1fc57f2","value":3 }}
+{"type":"SENSOR","timestamp":1653450400299,"data":{"msgId":"69a1e699-a574-40c0-af4f-bdf4ca8144ab","value":4 }}
+{"type":"SENSOR","timestamp":1653450401299,"data":{"msgId":"33308d19-a1aa-4189-844b-39eaee1a1aab","value":5 }}
+{"type":"SENSOR","timestamp":1653450402299,"data":{"msgId":"bcc9b206-dcf7-4f1b-9356-5d3454618cab","value":6 }}
+{"type":"SENSOR","timestamp":1653450403299,"data":{"msgId":"019a5421-99ed-435e-b6cf-98ac781d82ed","value":7 }}
+{"type":"SENSOR","timestamp":1653450404299,"data":{"msgId":"f7318354-6032-453d-a07e-48ffde799eac","value":8 }}
+{"type":"SENSOR","timestamp":1653450405299,"data":{"msgId":"e008a335-c0dd-40b7-bfa5-90780e4e2d20","value":9 }}
+{"type":"SENSOR","timestamp":1653450406299,"data":{"msgId":"9a509cd3-8c08-4a46-9e66-fb1ec5c4ced8","value":10}}
+{"type":"SENSOR","timestamp":1653450407299,"data":{"msgId":"42d1329b-f9aa-4ce2-9d08-ca645e00d276","value":11}}
+{"type":"SENSOR","timestamp":1653450408299,"data":{"msgId":"967fad1e-1d59-4ebb-9058-dfb8ad213161","value":12}}
+{"type":"SENSOR","timestamp":1653450409299,"data":{"msgId":"94416aa5-573d-4d29-b67b-a51d34786b75","value":13}}
+{"type":"SENSOR","timestamp":1653450410299,"data":{"msgId":"5ecc95e8-7bf0-49b5-a7fd-32dacdfca00a","value":14}}
+{"type":"SENSOR","timestamp":1653450411299,"data":{"msgId":"96638cd7-27a3-4d61-8879-c5319f9b474a","value":15}}
+{"type":"SENSOR","timestamp":1653450412299,"data":{"msgId":"d18537e0-ff50-4596-b5e0-a2b2875cf9b9","value":16}}
+{"type":"SENSOR","timestamp":1653450413299,"data":{"msgId":"6eebac74-83cd-4761-ad4d-dd0becb137c4","value":17}}
+{"type":"SENSOR","timestamp":1653450414299,"data":{"msgId":"0789cf17-43bf-47ab-9592-9f054ae37dc7","value":18}}
+{"type":"SENSOR","timestamp":1653450415299,"data":{"msgId":"f6d52d20-9dd7-47db-808d-d5aa1765c040","value":19}}
+{"type":"SENSOR","timestamp":1653450416299,"data":{"msgId":"3596c402-a6cf-4fcc-880d-7db1c6e61701","value":20}}
+{"type":"SENSOR","timestamp":1653450417299,"data":{"msgId":"d0d98d63-b565-4276-bd40-3ed3487ba808","value":21}}
+{"type":"SENSOR","timestamp":1653450418299,"data":{"msgId":"d8d254b1-3d04-4ef4-8f45-c78d56332209","value":22}}
+{"type":"SENSOR","timestamp":1653450419299,"data":{"msgId":"9b6761fb-2ce2-42d2-88b6-2e157a4fcc87","value":23}}
+{"type":"SENSOR","timestamp":1653450420299,"data":{"msgId":"82ef94e6-d028-4ce1-9597-db987127b263","value":24}}
+{"type":"SENSOR","timestamp":1653450421299,"data":{"msgId":"e7d63823-df96-4392-af2e-ddff15efc844","value":25}}
+{"type":"SENSOR","timestamp":1653450422299,"data":{"msgId":"61ae2c2c-e56c-491f-9a7a-944893f2502d","value":26}}
+{"type":"SENSOR","timestamp":1653450423299,"data":{"msgId":"5ee7523b-d254-4362-8b24-6da87935aaa7","value":27}}
+{"type":"SENSOR","timestamp":1653450424299,"data":{"msgId":"150368ee-5548-46db-952a-adba4c39f74d","value":28}}
+{"type":"SENSOR","timestamp":1653450425299,"data":{"msgId":"0899ece9-6eb3-4aae-b1c3-59d93e056cf7","value":29}}
+{"type":"SENSOR","timestamp":1653450426299,"data":{"msgId":"cbdc82c7-079f-4549-ab29-090bba256bdf","value":30}}
+{"type":"SENSOR","timestamp":1653450427299,"data":{"msgId":"bc4c6d3e-843a-418b-af0b-fb7966c3f08d","value":31}}
+{"type":"SENSOR","timestamp":1653450428299,"data":{"msgId":"d4a1f7f0-b530-4942-8410-3a3c7e7d669e","value":32}}
+{"type":"SENSOR","timestamp":1653450429299,"data":{"msgId":"389b8cdb-e7c8-4713-bbb7-8d168d284e30","value":33}}
+{"type":"SENSOR","timestamp":1653450430299,"data":{"msgId":"8071fa4b-0b43-406b-90f8-7ff6e08c92bd","value":34}}
+{"type":"SENSOR","timestamp":1653450431299,"data":{"msgId":"8991b519-f4bc-4834-b299-42ff5ea4a40c","value":35}}
+{"type":"SENSOR","timestamp":1653450432299,"data":{"msgId":"cc57532d-9f63-4f15-8af2-aa90080ebc98","value":36}}
+{"type":"SENSOR","timestamp":1653450433299,"data":{"msgId":"47dbfc49-6a7d-43dd-aa73-4be2f6ef9d67","value":37}}
+{"type":"SENSOR","timestamp":1653450434299,"data":{"msgId":"d73a9107-75ed-4389-af49-d7f41d7ffbc1","value":38}}
+{"type":"SENSOR","timestamp":1653450435299,"data":{"msgId":"18bf2393-e1cd-4166-aa44-027fa817dbf0","value":39}}
